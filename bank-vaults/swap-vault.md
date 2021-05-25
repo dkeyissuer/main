@@ -7,7 +7,7 @@ description: >-
 
 ### 金库协议 🔑 
 
-![](../.gitbook/assets/dkey-bsc_cn.png)
+![](../.gitbook/assets/dkey-bsc_cn-2-.png)
 
 ### **交易金库** 🔄 
 
