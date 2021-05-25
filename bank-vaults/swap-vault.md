@@ -8,7 +8,7 @@ description: >-
 
 ### 金庫協議 🔑 
 
-![](../.gitbook/assets/dkey-bsc_cnt.png)
+![](../.gitbook/assets/dkey-bsc_cnt-2-.png)
 
 ### 交易金庫 ****🔄 
 
