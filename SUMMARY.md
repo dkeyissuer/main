@@ -9,7 +9,6 @@
 * [Ecosystem 🧬](dkey-bank/ecosystem.md)
 * [Distributions of Rewards 🎁](dkey-bank/advantage.md)
 * [Asset Tokenization 💰](dkey-bank/asset-tokenization.md)
-* [Roadmap📝](dkey-bank/roadmap.md)
 
 ## Bank Vaults
 
@@ -19,4 +18,8 @@
 
 * [Tokenomics 🪙](dkey-token/the-token.md)
 * [Distribution & Allocation ⚖️](dkey-token/token-usage.md)
+
+---
+
+* [Roadmap 📝](roadmap.md)
 

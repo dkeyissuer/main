@@ -1,12 +1,12 @@
-# Roadmap📝
+# Roadmap 📝
 
-📊 First Quarter 2021 : （ 💯 done）
+##  📊 First Quarter 2021 : （ 💯 done）
 
-**Seed Round** 
+### **Seed Round** 
 
 ✅ $1,320,000 Token Locking Period 2 years
 
- **DKEY Development** 
+###  **DKEY Development** 
 
 ✅ Binance Liquidity Trust Account 
 
@@ -16,35 +16,35 @@
 
 
 
-📊 Quarter 2 2021：
+## 📊 Quarter 2 2021：
 
-**Private Round Lauching** 
+### **Private Round Lauching** 
 
 ✅ Private Round Price from $0.30 - $0.80 
 
 ✅ Token Locking Period 12 months
 
-**Launch DKEY Bank App** 
+### **Launch DKEY Bank App** 
 
 ✅ Private Round Campaign APP \(Beta Version\) 
 
 ✅ Swap & Staking Vault LIVE !!
 
- **DKEY Concept Office Launching** 
+###  **DKEY Concept Office Launching** 
 
 ✅ Soft Launching Event
 
 
 
-📊 Quarter 3 2021 :
+## 📊 Quarter 3 2021 :
 
-**Super Node Recruitment** 
+### **Super Node Recruitment** 
 
 ✅ Recruit super nodes as stakeholders and promote DKEY 
 
 ✅ Set up DKEY regional offices and regional marketing campaign
 
- **Overseas Market** 
+###  **Overseas Market** 
 
 ✅ Listing price $1.00 
 
@@ -56,9 +56,9 @@
 
 
 
-📊 Quarter 4 2021 :
+## 📊 Quarter 4 2021 :
 
-**DKEY Bank Ecosystem Super APP** 
+### **DKEY Bank Ecosystem Super APP** 
 
 ✅ Open Cold Wallet Connect 
 
@@ -66,15 +66,15 @@
 
 
 
-📊 First Quarter 2022 :
+## 📊 First Quarter 2022 :
 
-**Coinmarketcap** 
+### **Coinmarketcap** 
 
 ✅ Several major exchange listing price $5.00 
 
 ✅ Fully liquidated into cryptocurrency market
 
-**Overseas Market** 
+### **Overseas Market** 
 
 ✅ Private Round from $5.00 - $15.00 
 
@@ -82,9 +82,9 @@
 
 
 
-📊 Quarter 2 2022 :
+## 📊 Quarter 2 2022 :
 
-**Variety Asset Liquidity** 
+### **Variety Asset Liquidity** 
 
 ✅ Asset Tokenization 
 
