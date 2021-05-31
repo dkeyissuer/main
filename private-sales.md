@@ -4,7 +4,7 @@ description: Tutorial for DKEY Private Sales
 
 # Private Sales 🎯
 
-### **Binance Private Round Deposit Step :**
+## **Binance Private Round Deposit Step :**
 
 1.Register Binance Account： [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
 
@@ -37,7 +37,7 @@ description: Tutorial for DKEY Private Sales
 
 
 
-### Wallet Private Round Deposit Step :
+## Wallet Private Round Deposit Step :
 
 🗃 **Wallet address** :  
 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
