@@ -9,7 +9,6 @@
 * [金融生態 🧬](dkey-bank/ecosystem.md)
 * [獎金分配🎁](dkey-bank/advantage.md)
 * [資產代幣化💰](dkey-bank/asset-tokenization.md)
-* [發展藍圖 📝](dkey-bank/fa-zhan-lan-tu.md)
 
 ## 銀行金庫 <a id="bank-vaults"></a>
 
@@ -19,4 +18,8 @@
 
 * [金融生態圈](dkey-token/the-token.md)
 * [分佈與分配⚖️](dkey-token/token-usage.md)
+
+---
+
+* [發展藍圖 📝](fa-zhan-lan-tu.md)
 
