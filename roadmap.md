@@ -18,7 +18,7 @@
 
 ## 📊 Quarter 2 2021：（ ✅ done）
 
-### **Private Round Lauching** 
+### **Private Round Launching** 
 
 ✅ Private Round 1 \($0.30\) & Round 2 \($0.50\) successfully adopted
 
@@ -104,7 +104,7 @@
 
 ✅ Rank as Global top 200 cryptocurrency
 
-✅ Market Cap achieve $1 trillion
+✅ Market Cap achieve $1 billion
 
 ## 📊 Quarter 2 2022 :
 
