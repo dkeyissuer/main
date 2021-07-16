@@ -1,6 +1,6 @@
 # Roadmap 📝
 
-##  📊 First Quarter 2021 : （ 💯 done）
+##  📊 First Quarter 2021 : （ ✅ done）
 
 ### **Seed Round** 
 
