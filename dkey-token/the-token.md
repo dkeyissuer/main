@@ -22,7 +22,9 @@ DKEY Token is created using Binance Smart Chain \(BEP-20\) Smart Contract. It is
 Supported Currency is determined during the private sales period.
 {% endhint %}
 
-{% file src="../.gitbook/assets/tokenomics-5-.pdf" caption="DKEY BANK Network Tokenomics" %}
+{% file src="../.gitbook/assets/tokenomics.pdf" caption="DKEY BANK Network Tokenomics" %}
+
+
 
 
 
