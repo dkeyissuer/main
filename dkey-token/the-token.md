@@ -22,5 +22,7 @@ DKEY代幣是使用幣安智能鏈\(BEP-20\)上的智能合約創建的，預挖
 所支持的貨幣將依據私輪期間所決定的。
 {% endhint %}
 
-\*\*\*\*
+{% file src="../.gitbook/assets/tokenomics\_cn-t.pdf" caption="DKEY銀行金融生態" %}
+
+
 
