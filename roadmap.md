@@ -16,7 +16,7 @@
 
 
 
-## 📊 Quarter 2 2021：
+## 📊 Quarter 2 2021：（ ✅ done）
 
 ### **Private Round Lauching** 
 
