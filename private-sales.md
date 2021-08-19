@@ -41,9 +41,9 @@ description: Tutorial for DKEY Private Sales
 
 1.Register Huobi Account  :[ ](https://bit.ly/3gdMois)[https://bit.ly/3gdMois](https://bit.ly/3gdMois)
 
-2.Download Huobi App  
- ▶ Login   
- ▶ Switch to Huobi Pro
+2. Download Huobi App  
+   ▶ Login   
+   ▶ Switch to Huobi Pro
 
 3. Verify real name authentication \(KYC\)
 
