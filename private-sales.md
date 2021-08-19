@@ -71,7 +71,7 @@ description: DKEY 加密钥匙私募指南。
 
 ## 火币钱包私募入金指南：
 
-🗃 **钱包地址**: 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+🗃 **钱包地址**:0x720dcfb39909eef371b4407fe23d7a0f0a5efda4
 
 🔑 **入金DKEY 仅接受 USDT （BEP20 + HRC20）**。
 
