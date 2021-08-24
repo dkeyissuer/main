@@ -37,8 +37,7 @@ description: Tutorial for DKEY Private Sales
 
 
 
-🗃 **Wallet Address**:  
-0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+🗃 **Wallet Address**: 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
 
 🔑 **DKEY accepts USDT \(BEP20\) deposit**
 
@@ -83,8 +82,7 @@ description: Tutorial for DKEY Private Sales
 
 
 
-🗃 **Wallet Address** :  
-0x720dcfb39909eef371b4407fe23d7a0f0a5efda4  
+🗃 **Wallet Address**: 0x720dcfb39909eef371b4407fe23d7a0f0a5efda4  
   
 🔑 **DKEY accepts USDT \(HRC20\) deposit**
 
