@@ -42,7 +42,7 @@ description: DKEY 加密钥匙私募指南。
 
 💵 **汇率**：1美元 = 1 USDT
 
-![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
+![](.gitbook/assets/usdt-deposit-poster_bep20_cn.jpg)
 
 **如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
 
@@ -79,7 +79,7 @@ description: DKEY 加密钥匙私募指南。
 
 💵 **汇率**： 1美元 = 1 USDT
 
-![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
+![](.gitbook/assets/hrc20_usdt-and-husd_cn.jpg)
 
 **如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
 
