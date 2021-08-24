@@ -44,6 +44,8 @@ description: Tutorial for DKEY Private Sales
 
 💵 **Rate**: $1 = 1 USDT
 
+![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
+
 **If you still confuse about the steps to deposit, you may download the document below** 👇🏻 
 
 {% file src=".gitbook/assets/binance-staking-tutorial.pdf" %}
@@ -87,6 +89,8 @@ description: Tutorial for DKEY Private Sales
 🔑 **DKEY accepts USDT \(HRC20\) deposit**
 
 💵 **Rate**: $1 = 1 USDT
+
+![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
 
 **If you still confuse about the step to deposit, you may download the document below** 👇🏻 
 
