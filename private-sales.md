@@ -44,7 +44,7 @@ description: DKEY 加密鑰匙私募指南。
 
 **如若您在私募入金上還存有疑惑，請點擊以下載下方的私募指南：**
 
-{% file src=".gitbook/assets/zhi-ya-jiao-cheng-zhong-wen-fan-ti-ban-.pdf" %}
+{% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-fan-ti-zhong-wen-ban-.pdf" %}
 
 
 
