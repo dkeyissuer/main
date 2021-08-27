@@ -47,7 +47,7 @@ description: Tutorial for DKEY Private Sales
 
 **If you still confuse about the steps to deposit, you may download the document below** 👇🏻 
 
-{% file src=".gitbook/assets/binance-staking-tutorial.pdf" %}
+{% file src=".gitbook/assets/binance-private-round-deposit-tutorial.pdf" %}
 
 ## Huobi Private Round Deposit Steps
 
@@ -92,5 +92,5 @@ description: Tutorial for DKEY Private Sales
 
 **If you still confuse about the step to deposit, you may download the document below** 👇🏻 
 
-{% file src=".gitbook/assets/huobi-staking-tutorial-.pdf" caption="Huobi Staking Tutorial" %}
+{% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" %}
 
