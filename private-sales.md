@@ -46,7 +46,7 @@ description: DKEY 加密钥匙私募指南。
 
 **如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
 
-{% file src=".gitbook/assets/bi-an-zhi-ya-jiao-cheng-zhong-wen-jian-ti-ban-zui-xin-ban-ben-.pptx" caption="币安质押教程" %}
+{% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" %}
 
 ## 火币私募入金指南：
 
@@ -83,5 +83,5 @@ description: DKEY 加密钥匙私募指南。
 
 **如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
 
-{% file src=".gitbook/assets/huo-bi-zhi-ya-jiao-cheng-jian-ti-zhong-wen-.pdf" caption="火币质押教程" %}
+{% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-zhi-nan-jian-ti-zhong-wen-ban-.pdf" %}
 
