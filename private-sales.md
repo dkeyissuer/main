@@ -6,38 +6,53 @@ description: Tutorial for DKEY Private Sales
 
 ## **Binance Private Round Deposit Steps**
 
-1. Register Binance Account: [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
+1. Register Binance Account at [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
 
-2. Download Binance App   
-    ▶Login   
-    ▶Switch to Binance Professional Version  
-  
-3. Verify real name authentication \(KYC\)  
-  
-4. Activate P2P: Basic Info   
-    ▶Personal Information   
-    ▶Upload ID and Selfie  
-  
-5. Click “Top Left”   
-    ▶Security   
-    ▶SMS & Email Authentication  
-  
-6. Purchase USDT: P2P Trading   
-    ▶USDT   
-    ▶Express   
-    ▶Payment  
-  
-7. Deposit to DKEY Binance \(P2P\): Wallet   
-    ▶P2P  
-    ▶USDT  
-    ▶Transfer  
-    ▶Send  
-    ▶Email: bsc@dkey.io  
-    ▶Confirm
+2. Download Binance App  
+    ▶Login  
+    ▶Switch to Binance Pro
+
+3. Complete Identity Verification \(KYC\)  
+    ▶Fill in personal information  
+    ▶Upload ID and selfie
+
+4. Set up 2-Factor Authentication  
+    ▶Tap "Profile" on top left  
+    ▶Tap "Security"  
+    ▶Select SMS Authentication  
+    ▶Fill in mobile number
+
+5. Purchase USDT  
+    ▶Tap "P2P Trading"  
+    ▶Select "Express" on top left  
+    ▶Tap "USDT"  
+    ▶Enter amount to buy  
+    ▶Proceed to payment
+
+6. Activate Binance Pay  
+    ▶Tap "Profile" on top left  
+    ▶Tap "Pay"  
+    ▶Tap "Open Binance Pay"  
+    ▶Create your unique Nickname  
+    ▶Set your Pay PIN  
+    ▶Top up your Pay Wallet from Spot Wallet
+
+7. Deposit to DKEY Bank Binance account  
+    ▶Go to Pay Wallet  
+    ▶Tap "Pay"  
+    ▶Scan QR code OR Enter Pay ID  
+    ▶Check payment details  
+    ▶Tap "Funds To Use" to change payment currency  
+    ▶Tap "Confirm"  
+    ▶Enter Pay PIN
+
+_**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 
 
 🗃 **Wallet Address**: 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+
+🗃 **Pay ID**: 206171867
 
 🔑 **DKEY accepts USDT \(BEP20\) deposit**
 
@@ -45,42 +60,50 @@ description: Tutorial for DKEY Private Sales
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
 
-**If you still confuse about the steps to deposit, you may download the documents below** 👇🏻 
+**If you still confuse about the steps to deposit, you may download the document as below** 👇🏻 
 
 {% file src=".gitbook/assets/binance-private-round-deposit-tutorial.pdf" caption="Binance Private Round Deposit Tutorial" %}
 
-{% file src=".gitbook/assets/dkey-bank-app-tutorial-ui-ux-2.0-.pdf" caption="DKEY Bank App Tutorial" %}
+
 
 ## Huobi Private Round Deposit Steps
 
 1. Register Huobi Account:[ ](https://bit.ly/3gdMois)[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
 
 2. Download Huobi App  
-   ▶ Login   
-   ▶ Switch to Huobi Pro
+   ▶Login   
+   ▶Switch to Huobi Pro
 
-3. Verify real name authentication \(KYC\)
+3. Complete Identity Verification \(KYC\)  
+    ▶Fill in personal information  
+    ▶Upload ID and selfie
 
-4. Security - Link Phone Number  
-   ▶ Type Phone Number  
-   ▶ Enter Verification Code
+4. Set up 2-Factor Authentication  
+    ▶Tap "Profile" on top left  
+    ▶Tap "Security"  
+    ▶Select Phone Number  
+    ▶Fill in mobile number
 
-5. Purchase USDT Via Fiat  
-   ▶ Buy  
-   ▶ Fiat  
-   ▶ Choose on MYR  
-   ▶ Select your option  
-   ▶ Order  
-   ▶ Bank Transfer  
-   ▶ Pay
+5. Purchase USDT via Fiat  
+   ▶Tap "Buy" on homescreen  
+   ▶Tap "Fiat" on top right  
+   ▶Switch to MYR  
+   ▶Select the best price  
+   ▶Tap "Buy"  
+   ▶Enter amount to buy  
+   ▶Tap "Order"  
+   ▶Proceed to payment  
+   ▶Tap "Paid"
 
-6. Withdraw to Staking DKEY  
-   ▶ Balances  
-   ▶ Withdraw  
-   ▶ Withdrawal Address  
-   ▶ Select HECO  
-   ▶ Amount  
-   ▶ Withdraw
+6. Withdraw to DKEY Bank Huobi account  
+   ▶Tap "Balances"  
+   ▶Tap "Withdraw"  
+   ▶Enter Withdrawal Address  
+   ▶Tap "HECO"  
+   ▶Enter withdrawal amount  
+   ▶Tap "Withdraw"
+
+_**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 
 
@@ -92,9 +115,35 @@ description: Tutorial for DKEY Private Sales
 
 ![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
 
-**If you still confuse about the step to deposit, you may download the documents below** 👇🏻 
+**If you still confuse about the step to deposit, you may download the document as below** 👇🏻 
 
 {% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" caption="Huobi Private Round Deposit Tutorial" %}
 
+\*\*\*\*
+
+## **DKEY Buying & Staking Steps**
+
+1. Login DKEY Bank App at [https://app.dkey.io/](https://app.dkey.io/)
+
+2. Buy DKEY  
+    ▶Tap "Buy"  
+    ▶Enter required information  
+    ▶Tap "Submit"
+
+3. Stake DKEY  
+    ▶Tap "Staking Vault"  
+    ▶Tap "Earn Now" to select staking volume  
+    ▶Select where to place the new staking contract  
+    ▶Tap "Confirm"  
+    ▶Tap "Send" to get authorisation code  
+    ▶Enter OTP  
+    ▶Tap "submit"
+
+
+
+**If you still confuse about the steps to deposit, you may download the document as below** 👇🏻 
+
 {% file src=".gitbook/assets/dkey-bank-app-tutorial-ui-ux-2.0-.pdf" caption="DKEY Bank App Tutorial" %}
+
+
 
