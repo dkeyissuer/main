@@ -23,7 +23,7 @@ description: Tutorial for DKEY Private Sales
     ▶Fill in mobile number
 
 5. Purchase USDT  
-    ▶Tap "P2P Trading"  
+    ▶Tap "P2P Trading" on homescreen  
     ▶Select "Express" on top left  
     ▶Tap "USDT"  
     ▶Enter amount to buy  
