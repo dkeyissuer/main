@@ -49,8 +49,6 @@ description: Tutorial for DKEY Private Sales
 
 {% file src=".gitbook/assets/binance-private-round-deposit-tutorial.pdf" %}
 
-{% file src=".gitbook/assets/dkey-bank-app-tutorial-ui-ux-2.0-.pdf" caption="DKEY Bank App Tutorial" %}
-
 ## Huobi Private Round Deposit Steps
 
 1. Register Huobi Account:[ ](https://bit.ly/3gdMois)[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
