@@ -26,7 +26,7 @@ description: Tutorial for DKEY Private Sales
     ▶Tap "P2P Trading" on homescreen  
     ▶Select "Express" on top left  
     ▶Tap "USDT"  
-    ▶Enter amount to buy  
+    ▶Enter purchase amount in fiat  
     ▶Proceed to payment
 
 6. Activate Binance Pay  
