@@ -94,5 +94,3 @@ description: Tutorial for DKEY Private Sales
 
 {% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" %}
 
-{% file src=".gitbook/assets/dkey-bank-app-tutorial-ui-ux-2.0- \(1\).pdf" caption="DKEY Bank App Tutorial" %}
-
