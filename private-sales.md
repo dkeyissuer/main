@@ -46,7 +46,7 @@ description: DKEY 加密钥匙私募指南。
 
 **如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
 
-{% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" %}
+{% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" caption="币安私募入金教程（简体中文版）" %}
 
 {% file src=".gitbook/assets/dkey-yin-hang-ying-yong-jiao-cheng-ui-ux-2.0 \(1\).pdf" caption="DKEY银行应用教程" %}
 
