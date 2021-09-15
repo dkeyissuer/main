@@ -94,7 +94,7 @@ description: Tutorial for DKEY Private Sales
 
 **If you still confuse about the step to deposit, you may download the documents below** 👇🏻 
 
-{% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" %}
+{% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" caption="Huobi Private Round Deposit Tutorial" %}
 
 {% file src=".gitbook/assets/dkey-bank-app-tutorial-ui-ux-2.0-.pdf" caption="DKEY Bank App Tutorial" %}
 
