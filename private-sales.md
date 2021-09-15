@@ -45,9 +45,11 @@ description: Tutorial for DKEY Private Sales
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
 
-**If you still confuse about the steps to deposit, you may download the document below** 👇🏻 
+**If you still confuse about the steps to deposit, you may download the documents below** 👇🏻 
 
 {% file src=".gitbook/assets/binance-private-round-deposit-tutorial.pdf" %}
+
+{% file src=".gitbook/assets/dkey-bank-app-tutorial-ui-ux-2.0-.pdf" caption="DKEY Bank App Tutorial" %}
 
 ## Huobi Private Round Deposit Steps
 
@@ -90,7 +92,9 @@ description: Tutorial for DKEY Private Sales
 
 ![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
 
-**If you still confuse about the step to deposit, you may download the document below** 👇🏻 
+**If you still confuse about the step to deposit, you may download the documents below** 👇🏻 
 
 {% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" %}
+
+{% file src=".gitbook/assets/dkey-bank-app-tutorial-ui-ux-2.0- \(1\).pdf" caption="DKEY Bank App Tutorial" %}
 
