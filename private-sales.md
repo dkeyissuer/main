@@ -43,7 +43,7 @@ description: Tutorial for DKEY Private Sales
    ▶Tap "Pay"  
    ▶Scan QR code OR Enter Pay ID  
    ▶Check payment details  
-   ▶Tap "Funds To Use" to change payment currency  
+   ▶Tap "Funds To Use" to switch to USDT  
    ▶Tap "Confirm"  
    ▶Enter Pay PIN
 
