@@ -19,7 +19,7 @@ description: Tutorial for DKEY Private Sales
 4. Set up 2-Factor Authentication  
     ▶Tap "Profile" on top left  
     ▶Tap "Security"  
-    ▶Select SMS Authentication  
+    ▶Tap "SMS Authentication"  
     ▶Fill in mobile number
 
 5. Purchase USDT  
