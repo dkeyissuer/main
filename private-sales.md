@@ -48,6 +48,8 @@ description: DKEY 加密钥匙私募指南。
 
 {% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" %}
 
+{% file src=".gitbook/assets/dkey-yin-hang-ying-yong-jiao-cheng-ui-ux-2.0 \(1\).pdf" caption="DKEY银行应用教程" %}
+
 ## 火币私募入金指南：
 
 1️. 注册火币账户：[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
@@ -84,4 +86,6 @@ description: DKEY 加密钥匙私募指南。
 **如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
 
 {% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-zhi-nan-jian-ti-zhong-wen-ban-.pdf" %}
+
+{% file src=".gitbook/assets/dkey-yin-hang-ying-yong-jiao-cheng-ui-ux-2.0 \(1\).pdf" caption="DKEY银行应用教程" %}
 
