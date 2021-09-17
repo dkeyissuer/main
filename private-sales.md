@@ -9,43 +9,43 @@ description: DKEY Private Sales Guide
 1. Register Binance Account at [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
 
 2. Download Binance App  
-   ▶Login  
-   ▶Switch to Binance Pro
+   ▶ Login  
+   ▶ Switch to Binance Pro
 
 3. Complete Identity Verification \(KYC\)  
-   ▶Fill in personal information  
-   ▶Upload ID and selfie
+   ▶ Fill in personal information  
+   ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
-   ▶Tap "Profile" on top left  
-   ▶Tap "Security"  
-   ▶Tap "SMS Authentication"  
-   ▶Fill in mobile number
+   ▶ Tap "Profile" on top left  
+   ▶ Tap "Security"  
+   ▶ Tap "SMS Authentication"  
+   ▶ Fill in mobile number
 
 5. Purchase USDT  
-   ▶Tap "P2P Trading" on homescreen  
-   ▶Select "Express" on top left  
-   ▶Tap "USDT"  
-   ▶Enter purchase amount in fiat  
-   ▶Proceed to payment  
-   ▶Tap "Transferred, Next" after payment
+   ▶ Tap "P2P Trading" on homescreen  
+   ▶ Select "Express" on top left  
+   ▶ Tap "USDT"  
+   ▶ Enter purchase amount in fiat  
+   ▶ Proceed to payment  
+   ▶ Tap "Transferred, Next" after payment
 
 6. Activate Binance Pay  
-   ▶Tap "Profile" on top left  
-   ▶Tap "Pay"  
-   ▶Tap "Open Binance Pay"  
-   ▶Create your unique Nickname  
-   ▶Set your Pay PIN  
-   ▶Top up your Pay Wallet from Spot Wallet
+   ▶ Tap "Profile" on top left  
+   ▶ Tap "Pay"  
+   ▶ Tap "Open Binance Pay"  
+   ▶ Create your unique Nickname  
+   ▶ Set your Pay PIN  
+   ▶ Top up your Pay Wallet from Spot Wallet
 
 7. Deposit to DKEY Bank Binance account  
-   ▶Go to Pay Wallet  
-   ▶Tap "Pay"  
-   ▶Scan QR code OR Enter Pay ID  
-   ▶Check payment details  
-   ▶Tap "Funds To Use" to switch to USDT  
-   ▶Tap "Confirm"  
-   ▶Enter Pay PIN
+   ▶ Go to Pay Wallet  
+   ▶ Tap "Pay"  
+   ▶ Scan QR code OR Enter Pay ID  
+   ▶ Check payment details  
+   ▶ Tap "Funds To Use" to switch to USDT  
+   ▶ Tap "Confirm"  
+   ▶ Enter Pay PIN
 
 _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
@@ -69,40 +69,40 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 ## Huobi Private Round Deposit Steps
 
-1. Register Huobi Account:[ ](https://bit.ly/3gdMois)[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
+1. Register Huobi Account at[ ](https://bit.ly/3gdMois)[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
 
 2. Download Huobi App  
-   ▶Login   
-   ▶Switch to Huobi Pro
+   ▶ Login   
+   ▶ Switch to Huobi Pro
 
 3. Complete Identity Verification \(KYC\)  
-   ▶Fill in personal information  
-   ▶Upload ID and selfie
+   ▶ Fill in personal information  
+   ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
-   ▶Tap "Profile" on top left  
-   ▶Tap "Security"  
-   ▶Select Phone Number  
-   ▶Fill in mobile number
+   ▶ Tap "Profile" on top left  
+   ▶ Tap "Security"  
+   ▶ Select Phone Number  
+   ▶ Fill in mobile number
 
 5. Purchase USDT  
-   ▶Tap "Buy" on homescreen  
-   ▶Tap "Fiat" on top right  
-   ▶Switch to MYR  
-   ▶Tap "USDT"  
-   ▶Tap "Buy" when you select the best price  
-   ▶Enter purchase amount in fiat  
-   ▶Tap "Order"  
-   ▶Proceed to payment  
-   ▶Tap "Paid" after payment
+   ▶ Tap "Buy" on homescreen  
+   ▶ Tap "Fiat" on top right  
+   ▶ Switch to MYR  
+   ▶ Tap "USDT"  
+   ▶ Tap "Buy" when you select the best price  
+   ▶ Enter purchase amount in fiat  
+   ▶ Tap "Order"  
+   ▶ Proceed to payment  
+   ▶ Tap "Paid" after payment
 
 6. Withdraw to DKEY Bank Huobi account  
-   ▶Tap "Balances"  
-   ▶Tap "Withdraw"  
-   ▶Enter Withdrawal Address  
-   ▶Tap "HECO"  
-   ▶Enter withdrawal amount  
-   ▶Tap "Withdraw"
+   ▶ Tap "Balances"  
+   ▶ Tap "Withdraw"  
+   ▶ Enter Withdrawal Address  
+   ▶ Tap "HECO"  
+   ▶ Enter withdrawal amount  
+   ▶ Tap "Withdraw"
 
 _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
@@ -127,18 +127,18 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 1. Login DKEY Bank App at [https://app.dkey.io/](https://app.dkey.io/)
 
 2. Buy DKEY  
-   ▶Tap "Buy"  
-   ▶Enter required information  
-   ▶Tap "Submit"
+   ▶ Tap "Buy"  
+   ▶ Enter required information  
+   ▶ Tap "Submit"
 
 3. Stake DKEY  
-   ▶Tap "Staking Vault"  
-   ▶Tap "Earn Now" to select staking volume  
-   ▶Select where to place the new staking contract  
-   ▶Tap "Confirm"  
-   ▶Tap "Send" to get authorisation code  
-   ▶Enter OTP  
-   ▶Tap "submit"
+   ▶ Tap "Staking Vault"  
+   ▶ Tap "Earn Now" to select staking volume  
+   ▶ Select where to place the new staking contract  
+   ▶ Tap "Confirm"  
+   ▶ Tap "Send" to get authorisation code  
+   ▶ Enter OTP  
+   ▶ Tap "submit"
 
 
 
