@@ -147,3 +147,5 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 {% file src=".gitbook/assets/dkey-bank-app-tutorial-ui\_ux-2.0-\_20210917.pdf" caption="DKEY Bank App Tutorial" %}
 
+
+
