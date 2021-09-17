@@ -1,5 +1,5 @@
 ---
-description: Tutorial for DKEY Private Sales
+description: DKEY Private Sales Guide
 ---
 
 # Private Sales 🎯
