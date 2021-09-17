@@ -134,7 +134,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 3. Stake DKEY  
    ▶ Tap "Staking Vault"  
-   ▶ Tap "Earn Now" to select staking volume  
+   ▶ Tap "Earn Now" when you select the desired staking volume  
    ▶ Select where to place the new staking contract  
    ▶ Tap "Confirm"  
    ▶ Tap "Send" to get authorisation code  
