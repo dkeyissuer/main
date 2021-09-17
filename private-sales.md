@@ -62,7 +62,7 @@ _\*\*\*\*_
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20_cn.jpg)
 
-**如若您在私募入金方面還存有疑惑，請點擊下載以下的指南：**
+**如若您在私募入金方面還存有疑惑，請點擊下載以下指南：**
 
 {% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-fan-ti-zhong-wen-ban-.pdf" caption="幣安私募入金教程（繁體中文版）" %}
 
@@ -117,7 +117,7 @@ _\*\*\*\*_
 
 ![](.gitbook/assets/hrc20_usdt-and-husd_cn.jpg)
 
-**如若您在私募入金方面還存有疑惑，請點擊下載以下的指南：**
+**如若您在私募入金方面還存有疑惑，請點擊下載以下指南：**
 
 {% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" caption="火币私募入金教程（简体中文版）" %}
 
@@ -125,7 +125,27 @@ _\*\*\*\*_
 
 ## DKEY加密鑰匙購買和質押指南
 
+1. 登錄DKEY銀行應用：[https://app.dkey.io/](https://app.dkey.io/)
+
+2. 購買DKEY加密鑰匙  
+   ▶ 點擊“購買（私募輪）”  
+   ▶ 輸入轉賬資料  
+   ▶ 點擊“確認提交”
+
+3. 質押DKEY加密鑰匙  
+   ▶ 點擊“質押金庫”  
+   ▶ 選擇DKEY加密鑰匙質押數量後點擊“即時賺取”  
+   ▶ 選擇放置新合約的位置  
+   ▶ 點擊“確認”  
+   ▶ 點擊“發送”以獲取驗證碼  
+   ▶ 輸入驗證碼  
+   ▶ 點擊“確認提交”
 
 
-**如若您在購買或質押方面還存有疑惑，請點擊下載以下的指南：**
+
+**如若您在購買或質押方面還存有疑惑，請點擊下載以下指南：**
+
+{% file src=".gitbook/assets/dkey-yin-hang-ying-yong-jiao-cheng-uiux-2.020210917.pdf" caption="DKEY銀行應用教程" %}
+
+
 
