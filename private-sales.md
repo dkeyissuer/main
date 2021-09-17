@@ -39,15 +39,22 @@ description: DKEY 加密钥匙私募指南
    ▶ 从现货钱包划转资金为支付钱包充值
 
 7️. 存款至DKEY银行币安账户  
-   ▶ C2C  
-   ▶ USDT  
-   ▶ 转账  
-   ▶ 填入 bsc@dkey.io   
-   ▶ 发送
+   ▶ 点击“资金”  
+   ▶ 点击“支付”  
+   ▶ 点击“付款”  
+   ▶ 扫描二维码或输入支付ID  
+   ▶ 确认支付信息  
+   ▶ 点击“付款资金”切换至USDT  
+   ▶ 点击“确认”  
+   ▶ 输入支付PIN码
+
+_**请参考“DKEY购买和质押指南”以完成私募。**_
 
 
 
 🗃 **钱包地址：**0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+
+🗃 **币安支付ID：**206171867
 
 🔑 **DKEY 接受 USDT（BEP20）入金**
 
@@ -58,6 +65,8 @@ description: DKEY 加密钥匙私募指南
 **如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
 
 {% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" caption="币安私募入金教程（简体中文版）" %}
+
+
 
 ## 火币私募入金指南：
 
