@@ -42,7 +42,7 @@ description: DKEY Private Sales Guide
    ▶ Tap "Wallets"  
    ▶ Tap "Pay"  
    ▶ Tap "Pay"  
-   ▶ Scan Binance Pay QR code OR Enter Pay ID  
+   ▶ Scan QR code OR Enter Pay ID  
    ▶ Check payment details  
    ▶ Tap "Funds To Use" to switch to USDT  
    ▶ Tap "Confirm"  
