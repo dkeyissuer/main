@@ -56,19 +56,19 @@ _**请参考“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 🗃 **币安支付ID：**206171867
 
-🔑 **DKEY 接受 USDT（BEP20）入金**
+🔑 **DKEY银行接受 USDT（BEP20）入金**
 
 💵 **汇率**：1美元 = 1 USDT
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20_cn.jpg)
 
-**如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
+**如若您在私募入金方面还存有疑惑，请点击以下载下方的私募指南：**
 
 {% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" caption="币安私募入金教程（简体中文版）" %}
 
 
 
-## 火币私募入金指南：
+## 火币私募入金指南
 
 1️. 注册火币账户：[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
 
@@ -111,17 +111,23 @@ _**请参考“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 🗃 **钱包地址：**0x720dcfb39909eef371b4407fe23d7a0f0a5efda4
 
-🔑 **DKEY 接受 USDT（HRC20）入金**
+🔑 **DKEY银行接受 USDT（HRC20）入金**
 
 💵 **汇率**： 1美元 = 1 USDT
 
 ![](.gitbook/assets/hrc20_usdt-and-husd_cn.jpg)
 
-**如若您在私募入金上还存有疑惑，请点击以下载下方的私募指南：**
+**如若您在私募入金方面还存有疑惑，请点击以下载下方的私募指南：**
 
 {% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" caption="火币私募入金教程（简体中文版）" %}
 
 
 
-## 
+## DKEY购买和质押指南
+
+
+
+
+
+**如若您在购买或质押方面还存有疑惑，请点击以下载下方的私募指南：**
 
