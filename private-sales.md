@@ -1,10 +1,10 @@
 ---
-description: DKEY 加密钥匙私募指南。
+description: DKEY 加密钥匙私募指南
 ---
 
 # 私募 🎯
 
-## 币安私募入金指南：
+## 币安私募入金指南
 
 1️. 注册币安账户： [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243)
 
