@@ -36,7 +36,7 @@ description: DKEY Private Sales Guide
    ▶ Tap "Open Binance Pay"  
    ▶ Create your unique Nickname  
    ▶ Set your Pay PIN  
-   ▶ Top up your Binance Pay Wallet with crypto from Spot Wallet
+   ▶ Top up your Binance Pay Wallet from Spot Wallet
 
 7. Deposit to DKEY Bank Binance account  
    ▶ Tap "Wallets"  
