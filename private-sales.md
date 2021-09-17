@@ -62,7 +62,7 @@ _**请参考“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20_cn.jpg)
 
-**如若您在私募入金方面还存有疑惑，请点击以下载下方的私募指南：**
+**如若您在私募入金方面还存有疑惑，请点击下载以下指南：**
 
 {% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" caption="币安私募入金教程（简体中文版）" %}
 
@@ -117,7 +117,7 @@ _**请参考“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 ![](.gitbook/assets/hrc20_usdt-and-husd_cn.jpg)
 
-**如若您在私募入金方面还存有疑惑，请点击以下载下方的私募指南：**
+**如若您在私募入金方面还存有疑惑，请点击下载以下指南：**
 
 {% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-jiao-cheng-jian-ti-zhong-wen-ban-.pdf" caption="火币私募入金教程（简体中文版）" %}
 
@@ -143,7 +143,7 @@ _**请参考“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 
 
-**如若您在购买或质押方面还存有疑惑，请点击以下载下方的私募指南：**
+**如若您在购买或质押方面还存有疑惑，请点击下载以下指南：**
 
 {% file src=".gitbook/assets/dkey-yin-hang-ying-yong-jiao-cheng-uiux-2.020210917.pdf" caption="DKEY银行应用教程" %}
 
