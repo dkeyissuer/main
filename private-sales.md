@@ -36,12 +36,13 @@ description: DKEY Private Sales Guide
    ▶ Tap "Open Binance Pay"  
    ▶ Create your unique Nickname  
    ▶ Set your Pay PIN  
-   ▶ Transfer funds from Spot Wallet to top up Pay Wallet
+   ▶ Top up your Binance Pay Wallet with crypto from Spot Wallet
 
 7. Deposit to DKEY Bank Binance account  
-   ▶ Go to Pay Wallet  
+   ▶ Tap "Wallets"  
    ▶ Tap "Pay"  
-   ▶ Scan QR code OR Enter Pay ID  
+   ▶ Tap "Pay"  
+   ▶ Scan Binance Pay QR code OR Enter Pay ID  
    ▶ Check payment details  
    ▶ Tap "Funds To Use" to switch to USDT  
    ▶ Tap "Confirm"  
@@ -53,7 +54,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 🗃 **Wallet Address**: 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
 
-🗃 **Pay ID**: 206171867
+🗃 **Binance Pay ID**: 206171867
 
 🔑 **DKEY accepts USDT \(BEP20\) deposit**
 
