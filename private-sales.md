@@ -6,10 +6,10 @@ description: DKEY 加密钥匙私募指南
 
 ## 币安私募入金指南
 
-1️. 注册币安账户： [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243)
+1️. 注册币安账户：[https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243)
 
-2️. 下载币安应用程序  
- ▶ 登录账户  
+2️. 下载币安应用  
+ ▶登录账户  
  ▶ 改为币安专业界面
 
 3️. 核实实名认证&手机号码
