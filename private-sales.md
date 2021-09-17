@@ -4,7 +4,7 @@ description: DKEY Private Sales Guide
 
 # Private Sales 🎯
 
-## **Binance Private Round Deposit Steps**
+## **Binance Private Round Deposit Guide**
 
 1. Register Binance Account at [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
 
@@ -48,7 +48,7 @@ description: DKEY Private Sales Guide
    ▶ Tap "Confirm"  
    ▶ Enter Pay PIN
 
-_**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
+_**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 
 
@@ -68,7 +68,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 
 
-## Huobi Private Round Deposit Steps
+## Huobi Private Round Deposit Guide
 
 1. Register Huobi Account at[ ](https://bit.ly/3gdMois)[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
 
@@ -105,7 +105,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
    ▶ Enter Withdrawal Amount  
    ▶ Tap "Withdraw"
 
-_**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
+_**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 
 
@@ -123,7 +123,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 \*\*\*\*
 
-## **DKEY Buying & Staking Steps**
+## **DKEY Buying & Staking Guide**
 
 1. Login DKEY Bank App at [https://app.dkey.io/](https://app.dkey.io/)
 
