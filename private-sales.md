@@ -62,7 +62,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
 
-**If you still confuse about the steps to deposit, you may download the document as below** 👇🏻 
+**If you still confused about the steps to deposit, you may download the document below** 👇🏻 
 
 {% file src=".gitbook/assets/binance-private-round-deposit-tutorial.pdf" caption="Binance Private Round Deposit Tutorial" %}
 
@@ -117,7 +117,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 ![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
 
-**If you still confuse about the step to deposit, you may download the document as below** 👇🏻 
+**If you still confused about the steps to deposit, you may download the document below** 👇🏻 
 
 {% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" caption="Huobi Private Round Deposit Tutorial" %}
 
@@ -143,7 +143,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
 
 
 
-**If you still confuse about the steps to deposit, you may download the document as below** 👇🏻 
+**If you still confused about the steps to buy and stake, you may download the document below** 👇🏻 
 
 {% file src=".gitbook/assets/dkey-bank-app-tutorial-ui\_ux-2.0-\_20210917.pdf" caption="DKEY Bank App Tutorial" %}
 
