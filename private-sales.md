@@ -102,7 +102,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
    ▶ Tap "Withdraw"  
    ▶ Enter Withdrawal Address  
    ▶ Tap "HECO"  
-   ▶ Enter withdrawal amount  
+   ▶ Enter Withdrawal Amount  
    ▶ Tap "Withdraw"
 
 _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
