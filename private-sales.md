@@ -17,7 +17,7 @@ description: DKEY Private Sales Guide
    ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
-   ▶ Tap "Profile" on top left  
+   ▶ Tap "Profile" icon on top left  
    ▶ Tap "Security"  
    ▶ Tap "SMS Authentication"  
    ▶ Fill in mobile number
@@ -31,7 +31,7 @@ description: DKEY Private Sales Guide
    ▶ Tap "Transferred, Next" after payment
 
 6. Activate Binance Pay  
-   ▶ Tap "Profile" on top left  
+   ▶ Tap "Profile" icon on top left  
    ▶ Tap "Pay"  
    ▶ Tap "Open Binance Pay"  
    ▶ Create your unique Nickname  
@@ -80,7 +80,7 @@ _**Please refer to "DKEY Buying & Staking Steps" to complete private sales.**_
    ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
-   ▶ Tap "Profile" on top left  
+   ▶ Tap "Profile" icon on top left  
    ▶ Tap "Security"  
    ▶ Select Phone Number  
    ▶ Fill in mobile number
