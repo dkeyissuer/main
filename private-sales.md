@@ -72,7 +72,7 @@ _**请参考“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 1️. 注册火币账户：[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
 
-2️. 下载火币应用程序  
+2️. 下载火币应用  
    ▶ 登录账户  
    ▶ 切换至火币专业界面
 
