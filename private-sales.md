@@ -52,13 +52,13 @@ _**请参阅“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 
 
-🗃 **币安支付ID：**206171867；**邮箱账号：**bsc@dkey.io
+🗃 **币安支付ID：**206171867；**邮箱账号：**[bsc@dkey.io](mailto:bsc@dkey.io)\*\*\*\*
 
 🗃 **钱包地址：**0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
 
 🔑 **DKEY银行接受 USDT（BEP20）入金**
 
-💵 **汇率**：1美元 = 1 USDT
+💵 **汇率：**1美元 = 1 USDT
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20_cn.jpg)
 
@@ -111,7 +111,7 @@ _**请参阅“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 🔑 **DKEY银行接受 USDT（HRC20）入金**
 
-💵 **汇率**： 1美元 = 1 USDT
+💵 **汇率：**1美元 = 1 USDT
 
 ![](.gitbook/assets/hrc20_usdt-and-husd_cn.jpg)
 
@@ -142,6 +142,8 @@ _**请参阅“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 
 **如若您在购买或质押方面还存有疑惑，请点击下载以下指南：**
+
+{% file src=".gitbook/assets/dkey-yin-hang-ying-yong-jiao-cheng-uiux-2.020210917.pdf" caption="DKEY银行应用教程" %}
 
 
 
