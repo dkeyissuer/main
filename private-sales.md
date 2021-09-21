@@ -32,7 +32,7 @@ description: DKEY Private Sales Guide
    ▶ Tap "Transferred, Next" after payment
 
 6. Activate Binance Pay  
-   ▶ Tap "Wallets"  
+   ▶ Tap "Wallets" on bottom right corner  
    ▶ Tap "Pay"  
    ▶ Tap "Open Binance Pay"  
    ▶ Create your unique Nickname  
@@ -40,7 +40,7 @@ description: DKEY Private Sales Guide
    ▶ Tap "Enter Binance Pay"
 
 7. Deposit to DKEY Bank Binance account  
-   ▶ Tap "Wallets"  
+   ▶ Tap "Wallets" on bottom right corner  
    ▶ Tap "Pay"  
    ▶ Tap "Pay"  
    ▶ Enter Pay ID or Email Account / Scan QR code  
