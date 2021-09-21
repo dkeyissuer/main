@@ -13,14 +13,14 @@ description: DKEY Private Sales Guide
    ▶ Switch to Binance Pro
 
 3. Complete Identity Verification \(KYC\)  
-   ▶ Fill in personal information  
+   ▶ Enter personal information  
    ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
    ▶ Tap "Profile" icon on top left corner  
    ▶ Tap "Security"  
    ▶ Tap "SMS Authentication"  
-   ▶ Fill in mobile number
+   ▶ Enter mobile number
 
 5. Purchase USDT  
    ▶ Tap "P2P Trading" on home screen  
@@ -79,14 +79,14 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
    ▶ Switch to Huobi Pro
 
 3. Complete Identity Verification \(KYC\)  
-   ▶ Fill in personal information  
+   ▶ Enter personal information  
    ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
    ▶ Tap "Profile" icon on top left  
    ▶ Tap "Security"  
    ▶ Select Phone Number  
-   ▶ Fill in mobile number
+   ▶ Enter mobile number
 
 5. Purchase USDT  
    ▶ Tap "Buy" on home screen  
