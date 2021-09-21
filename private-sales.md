@@ -54,17 +54,19 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 
 
-🗃 **Binance Pay ID**: 206171867; **Email Account**: [bsc@dkey.io](mailto:bsc@dkey.io)
+🗃 **Binance Pay ID:** 206171867; **Email Account:** [bsc@dkey.io](mailto:bsc@dkey.io)
 
-🗃 **Wallet Address**: 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+🗃 **Wallet Address:** 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
 
 🔑 **DKEY accepts USDT \(BEP20\) deposit**
 
-💵 **Rate**: $1 = 1 USDT
+💵 **Rate:** $1 = 1 USDT
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
 
 **If you are still confused about the steps to deposit, you may download the document below** 👇🏻 
+
+{% file src=".gitbook/assets/binance-private-round-deposit-tutorial\_20210921.pdf" caption="Binance Private Round Deposit Tutorial" %}
 
 
 
@@ -109,11 +111,11 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 
 
-🗃 **Wallet Address**: 0x720dcfb39909eef371b4407fe23d7a0f0a5efda4  
+🗃 **Wallet Address:** 0x720dcfb39909eef371b4407fe23d7a0f0a5efda4  
   
 🔑 **DKEY accepts USDT \(HRC20\) deposit**
 
-💵 **Rate**: $1 = 1 USDT
+💵 **Rate:** $1 = 1 USDT
 
 ![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
 
