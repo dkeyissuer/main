@@ -9,7 +9,7 @@ description: DKEY Private Sales Guide
 1. Register Binance Account at [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
 
 2. Download Binance App  
-   ▶ Login  
+   ▶ Login account  
    ▶ Switch to Binance Pro
 
 3. Complete Identity Verification \(KYC\)  
@@ -37,13 +37,13 @@ description: DKEY Private Sales Guide
    ▶ Tap "Open Binance Pay"  
    ▶ Create your unique Nickname  
    ▶ Set your Pay PIN  
-   ▶ Top up your Binance Pay Wallet from Spot Wallet
+   ▶ Tap "Enter Binance Pay"
 
 7. Deposit to DKEY Bank Binance account  
    ▶ Tap "Wallets"  
    ▶ Tap "Pay"  
    ▶ Tap "Pay"  
-   ▶ Enter Pay ID / Email Account OR Scan QR code  
+   ▶ Enter Pay ID or Email Account / Scan QR code  
    ▶ Tap "Continue"  
    ▶ Select "USDT"  
    ▶ Enter amount  
