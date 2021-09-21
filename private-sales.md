@@ -29,7 +29,7 @@ description: DKEY Private Sales Guide
    ▶ Tap "USDT"  
    ▶ Enter purchase amount  
    ▶ Proceed to payment  
-   ▶ Tap "Transferred, Next" after payment
+   ▶ Tap "Transferred, Next"
 
 6. Activate Binance Pay  
    ▶ Tap "Wallets" on bottom right corner  
