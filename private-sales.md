@@ -17,21 +17,22 @@ description: DKEY Private Sales Guide
    ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
-   ▶ Tap "Profile" icon on top left  
+   ▶ Tap "Profile" icon on top left corner  
    ▶ Tap "Security"  
    ▶ Tap "SMS Authentication"  
    ▶ Fill in mobile number
 
 5. Purchase USDT  
-   ▶ Tap "P2P Trading" on homescreen  
-   ▶ Select "Express" on top left  
+   ▶ Tap "P2P Trading" on home screen  
+   ▶ Select "Express" on top left corner  
+   ▶ Tap "Buy"  
    ▶ Tap "USDT"  
-   ▶ Enter purchase amount in fiat  
+   ▶ Enter purchase amount  
    ▶ Proceed to payment  
    ▶ Tap "Transferred, Next" after payment
 
 6. Activate Binance Pay  
-   ▶ Tap "Profile" icon on top left  
+   ▶ Tap "Wallets"  
    ▶ Tap "Pay"  
    ▶ Tap "Open Binance Pay"  
    ▶ Create your unique Nickname  
@@ -42,19 +43,20 @@ description: DKEY Private Sales Guide
    ▶ Tap "Wallets"  
    ▶ Tap "Pay"  
    ▶ Tap "Pay"  
-   ▶ Scan Binance Pay QR code OR Enter Pay ID  
-   ▶ Check payment details  
-   ▶ Tap "Funds To Use" to switch to USDT  
+   ▶ Enter Pay ID / Email Account OR Scan QR code  
+   ▶ Tap "Continue"  
+   ▶ Select "USDT"  
+   ▶ Enter amount  
    ▶ Tap "Confirm"  
-   ▶ Enter Pay PIN
+   ▶ Tap "Send Now"
 
 _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 
 
-🗃 **Wallet Address**: 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+🗃 **Binance Pay ID**: 206171867; **Email Account**: [bsc@dkey.io](mailto:bsc@dkey.io)
 
-🗃 **Binance Pay ID**: 206171867
+🗃 **Wallet Address**: 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
 
 🔑 **DKEY accepts USDT \(BEP20\) deposit**
 
@@ -62,9 +64,9 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 ![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
 
-**If you still confused about the steps to deposit, you may download the document below** 👇🏻 
+**If you are still confused about the steps to deposit, you may download the document below** 👇🏻 
 
-{% file src=".gitbook/assets/binance-private-round-deposit-tutorial.pdf" caption="Binance Private Round Deposit Tutorial" %}
+{% file src=".gitbook/assets/binance-private-round-deposit-tutorial\_20210921.pdf" caption="Binance Private Round Deposit Tutorial" %}
 
 
 
@@ -87,7 +89,7 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
    ▶ Fill in mobile number
 
 5. Purchase USDT  
-   ▶ Tap "Buy" on homescreen  
+   ▶ Tap "Buy" on home screen  
    ▶ Tap "Fiat" on top right  
    ▶ Switch to MYR  
    ▶ Tap "USDT"  
@@ -117,7 +119,7 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 ![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
 
-**If you still confused about the steps to deposit, you may download the document below** 👇🏻 
+**If you are still confused about the steps to deposit, you may download the document below** 👇🏻 
 
 {% file src=".gitbook/assets/huobi-private-round-deposit-tutorial.pdf" caption="Huobi Private Round Deposit Tutorial" %}
 
@@ -143,7 +145,7 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 
 
-**If you still confused about the steps to buy and stake, you may download the document below** 👇🏻 
+**If you are still confused about the steps to buy and stake, you may download the document below** 👇🏻 
 
 {% file src=".gitbook/assets/dkey-bank-app-tutorial-ui\_ux-2.0-\_20210917.pdf" caption="DKEY Bank App Tutorial" %}
 
