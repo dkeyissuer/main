@@ -6,13 +6,13 @@ description: DKEY 加密钥匙私募指南
 
 ## 币安私募入金指南
 
-1️. 注册币安账户：[https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243)
+1️. 注册币安账号：[https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243)
 
 2️. 下载币安应用  
    ▶ 登录账户  
    ▶ 切换成币安专业版
 
-3️. 核实基础认证  
+3️. 核实身份认证  
    ▶ 填写个人资料  
    ▶ 上传身份证和自拍照
 
@@ -38,7 +38,7 @@ description: DKEY 加密钥匙私募指南
    ▶ 设置您的支付PIN码  
    ▶ 从现货钱包划转资金为支付钱包充值
 
-7️. 存款至DKEY银行币安账户  
+7️. 存入DKEY银行币安账户  
    ▶ 点击“资金”  
    ▶ 点击“支付”  
    ▶ 点击“付款”  
@@ -52,9 +52,9 @@ _**请参阅“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 
 
-🗃 **钱包地址：**0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+🗃 **币安支付ID：**206171867；**邮箱账号：**bsc@dkey.io
 
-🗃 **币安支付ID：**206171867
+🗃 **钱包地址：**0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
 
 🔑 **DKEY银行接受 USDT（BEP20）入金**
 
