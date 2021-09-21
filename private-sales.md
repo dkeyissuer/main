@@ -66,8 +66,6 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 **If you are still confused about the steps to deposit, you may download the document below** 👇🏻 
 
-{% file src=".gitbook/assets/binance-private-round-deposit-tutorial\_20210921.pdf" caption="Binance Private Round Deposit Tutorial" %}
-
 
 
 ## Huobi Private Round Deposit Guide
