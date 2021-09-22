@@ -121,6 +121,8 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 
 **If you are still confused about the steps to deposit, you may download the document below** 👇🏻 
 
+{% file src=".gitbook/assets/huobi-private-round-deposit-tutorial\_20210922.pdf" caption="Huobi Private Round Deposit Tutorial" %}
+
 \*\*\*\*
 
 ## **DKEY Buying & Staking Guide**
