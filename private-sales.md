@@ -121,6 +121,8 @@ _\*\*\*\*_
 
 **如若您在私募入金方面還存有疑惑，請點擊下載以下指南：**
 
+{% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-zhi-nan-jian-ti-zhong-wen-ban-20210922.pdf" caption="火币私募入金指南（简体中文版）" %}
+
 
 
 ## DKEY加密鑰匙購買和質押指南
