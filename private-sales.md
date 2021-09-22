@@ -75,7 +75,7 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
 1. Register Huobi Account at[ ](https://bit.ly/3gdMois)[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
 
 2. Download Huobi App  
-   ▶ Login   
+   ▶ Login account  
    ▶ Switch to Huobi Pro
 
 3. Complete Identity Verification \(KYC\)  
@@ -83,27 +83,29 @@ _**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
    ▶ Upload ID and selfie
 
 4. Set up 2-Factor Authentication  
-   ▶ Tap "Profile" icon on top left  
+   ▶ Tap "Profile" icon on top left corner  
    ▶ Tap "Security"  
-   ▶ Select Phone Number  
+   ▶ Tap "Phone Number"  
    ▶ Enter mobile number
 
 5. Purchase USDT  
    ▶ Tap "Buy" on home screen  
-   ▶ Tap "Fiat" on top right  
-   ▶ Switch to MYR  
+   ▶ Tap "Fiat" on top right corner  
+   ▶ Select "Fast" on top right corner  
+   ▶ Select "MYR"  
+   ▶ Tap "Buy"   
    ▶ Tap "USDT"  
    ▶ Tap "Buy" when you select the best price  
-   ▶ Enter purchase amount in fiat  
+   ▶ Enter purchase amount  
    ▶ Tap "Order"  
    ▶ Proceed to payment  
-   ▶ Tap "Paid" after payment
+   ▶ Tap "Paid"
 
 6. Withdraw to DKEY Bank Huobi account  
    ▶ Tap "Balances"  
    ▶ Tap "Withdraw"  
-   ▶ Enter Withdrawal Address  
-   ▶ Tap "HECO"  
+   ▶ Enter Withdrawal Address / Scan QR code  
+   ▶ Select "HECO"  
    ▶ Enter Withdrawal Amount  
    ▶ Tap "Withdraw"
 
