@@ -66,6 +66,8 @@ _\*\*\*\*_
 
 **如若您在私募入金方面還存有疑惑，請點擊下載以下指南：**
 
+{% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-fan-ti-zhong-wen-ban-20210921.pdf" caption="幣安私募入金教程（繁體中文版）" %}
+
 
 
 ## 火幣私募入金指南
