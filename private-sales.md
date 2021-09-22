@@ -121,6 +121,8 @@ _**请参阅“DKEY加密钥匙购买与质押指南”以完成私募。**_
 
 **如若您在私募入金方面还存有疑惑，请点击下载以下指南：**
 
+{% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-zhi-nan-jian-ti-zhong-wen-ban-20210922.pdf" caption="火币私募入金指南（简体中文版）" %}
+
 
 
 ## DKEY加密钥匙购买和质押指南
