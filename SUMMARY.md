@@ -19,7 +19,11 @@
 * [金融生態圈](dkey-token/the-token.md)
 * [分佈與分配⚖️](dkey-token/token-usage.md)
 
----
+## 里程碑 <a id="milestones"></a>
 
-* [發展藍圖 📝](roadmap.md)
+* [發展藍圖 📝](milestones/roadmap.md)
+
+## 條款和條件 <a id="terms-conditions"></a>
+
+* [Untitled](terms-conditions/untitled.md)
 
