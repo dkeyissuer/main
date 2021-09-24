@@ -1,155 +1,161 @@
 ---
-description: DKEY Private Sales Guide
+description: DKEY 加密鑰匙私募指南
 ---
 
-# Private Sales 🎯
+# 私募 🎯
 
-## **Binance Private Round Deposit Guide**
+## 幣安私募入金指南
 
-1. Register Binance Account at [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
+1️. 註冊幣安賬號： [https://www.binance.com/en/register?ref=109504243](https://www.binance.com/en/register?ref=109504243) 
 
-2. Download Binance App  
-   ▶ Login account  
-   ▶ Switch to Binance Pro
+2️. 下載幣安應用  
+   ▶ 登錄賬號  
+   ▶ 切換成幣安專業版 
 
-3. Complete Identity Verification \(KYC\)  
-   ▶ Enter personal information  
-   ▶ Upload ID and selfie
+3️. 核實身份認證  
+   ▶ 輸入個人資料  
+   ▶ 上傳身份證和自拍照
 
-4. Set up 2-Factor Authentication  
-   ▶ Tap "Profile" icon on top left corner  
-   ▶ Tap "Security"  
-   ▶ Tap "SMS Authentication"  
-   ▶ Enter mobile number
+4️. 設置雙重因素驗證  
+   ▶ 點擊左上角的“個人賬戶”圖標  
+   ▶ 點擊“安全”  
+   ▶ 點擊“簡訊二次驗證”  
+   ▶ 輸入手機號碼
 
-5. Purchase USDT  
-   ▶ Tap "P2P Trading" on home screen  
-   ▶ Select "Express" on top left corner  
-   ▶ Tap "Buy"  
-   ▶ Tap "USDT"  
-   ▶ Enter purchase amount  
-   ▶ Proceed to payment  
-   ▶ Tap "Transferred, Next"
+5️. 購買USDT  
+   ▶ 點擊主屏幕上的“C2C交易”  
+   ▶ 選擇左上角的“快捷區”  
+   ▶ 點擊“我要買”  
+   ▶ 點擊“USDT”  
+   ▶ 輸入購買金額  
+   ▶ 繼續付款  
+   ▶ 點擊“我已完成付款”
 
-6. Activate Binance Pay  
-   ▶ Tap "Wallets" on bottom right corner  
-   ▶ Tap "Pay"  
-   ▶ Tap "Open Binance Pay"  
-   ▶ Create your unique Nickname  
-   ▶ Set your Pay PIN  
-   ▶ Tap "Enter Binance Pay"
+6. 啟用幣安支付  
+   ▶ 點擊右下角的“資金”  
+   ▶ 點擊“支付”  
+   ▶ 點擊“開啟幣安支付”  
+   ▶ 設置您獨特的暱稱  
+   ▶ 設置您的支付PIN碼  
+   ▶ 點擊“進入幣安支付”
 
-7. Deposit to DKEY Bank Binance account  
-   ▶ Tap "Wallets" on bottom right corner  
-   ▶ Tap "Pay"  
-   ▶ Tap "Pay"  
-   ▶ Enter Pay ID or Email Account / Scan QR code  
-   ▶ Tap "Continue"  
-   ▶ Select "USDT"  
-   ▶ Enter amount  
-   ▶ Tap "Confirm"  
-   ▶ Tap "Send Now"
+7️. 存入DKEY銀行幣安賬戶  
+   ▶ 點擊右下角的“資金”  
+   ▶ 點擊“支付”  
+   ▶ 點擊“支付”  
+   ▶ 輸入支付ID或電子郵件賬戶 / 掃描二維碼  
+   ▶ 點擊“繼續”  
+   ▶ 選擇“USDT”  
+   ▶ 輸入金額  
+   ▶ 點擊“確認”  
+   ▶ 點擊“確認轉賬”
 
-_**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
+_**請參閱“DKEY加密鑰匙購買與質押指南”以完成私募。**_
 
+_\*\*\*\*_
 
+🗃 **幣安支付ID：**206171867；**電子郵件賬戶：**[bsc@dkey.io](mailto:bsc@dkey.io)
 
-🗃 **Binance Pay ID:** 206171867; **Email Account:** [bsc@dkey.io](mailto:bsc@dkey.io)
+🗃 **錢包地址：**0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab 
 
-🗃 **Wallet Address:** 0x17b649a8c3578a70c44ab6bc5f6ea47cc66e1fab
+🔑 **DKEY銀行接受 USDT（BEP20）入金**
 
-🔑 **DKEY accepts USDT \(BEP20\) deposit**
+ 💵 **匯率：**1美元 ****= 1 USDT 
 
-💵 **Rate:** $1 = 1 USDT
+![](.gitbook/assets/usdt-deposit-poster_bep20_cn.jpg)
 
-![](.gitbook/assets/usdt-deposit-poster_bep20.jpg)
+**如若您在私募入金方面還存有疑惑，請點擊下載以下指南：**
 
-**If you are still confused about the steps to deposit, you may download the document below** 👇🏻 
-
-{% file src=".gitbook/assets/binance-private-round-deposit-tutorial\_20210921.pdf" caption="Binance Private Round Deposit Tutorial" %}
-
-
-
-## Huobi Private Round Deposit Guide
-
-1. Register Huobi Account at[ ](https://bit.ly/3gdMois)[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
-
-2. Download Huobi App  
-   ▶ Login account  
-   ▶ Switch to Huobi Pro
-
-3. Complete Identity Verification \(KYC\)  
-   ▶ Enter personal information  
-   ▶ Upload ID and selfie
-
-4. Set up 2-Factor Authentication  
-   ▶ Tap "Profile" icon on top left corner  
-   ▶ Tap "Security"  
-   ▶ Tap "Phone Number"  
-   ▶ Enter mobile number
-
-5. Purchase USDT  
-   ▶ Tap "Buy" on home screen  
-   ▶ Tap "Fiat" on top right corner  
-   ▶ Select "Fast" on top right corner  
-   ▶ Select "MYR"  
-   ▶ Tap "Buy"   
-   ▶ Tap "USDT"  
-   ▶ Tap "Buy" when you select the best price  
-   ▶ Enter purchase amount  
-   ▶ Tap "Order"  
-   ▶ Proceed to payment  
-   ▶ Tap "Paid"
-
-6. Withdraw to DKEY Bank Huobi account  
-   ▶ Tap "Balances"  
-   ▶ Tap "Withdraw"  
-   ▶ Enter Withdrawal Address / Scan QR code  
-   ▶ Select "HECO"  
-   ▶ Enter Withdrawal Amount  
-   ▶ Tap "Withdraw"
-
-_**Please refer to "DKEY Buying & Staking Guide" to complete private sales.**_
+{% file src=".gitbook/assets/bi-an-si-mu-ru-jin-jiao-cheng-fan-ti-zhong-wen-ban-20210921.pdf" caption="幣安私募入金教程（繁體中文版）" %}
 
 
 
-🗃 **Wallet Address:** 0x720dcfb39909eef371b4407fe23d7a0f0a5efda4  
-  
-🔑 **DKEY accepts USDT \(HRC20\) deposit**
+## 火幣私募入金指南
 
-💵 **Rate:** $1 = 1 USDT
+1️. 註冊火幣賬戶：[https://www.huobi.pe/en-us/register/?invite\_code=gg7r2223](https://www.huobi.pe/en-us/register/?invite_code=gg7r2223)
 
-![](.gitbook/assets/hrc20_usdt-and-husd.jpg)
+2️. 下載火幣應用  
+   ▶ 登錄賬戶  
+   ▶ 切換至火幣專業界面
 
-**If you are still confused about the steps to deposit, you may download the document below** 👇🏻 
+3. 切換語言  
+   ▶ 點擊左上角的“個人賬戶”圖標  
+   ▶ 點擊“General Settings”  
+   ▶ 點擊“Language”  
+   ▶ 選擇"簡體中文"
 
-{% file src=".gitbook/assets/huobi-private-round-deposit-tutorial\_20210922.pdf" caption="Huobi Private Round Deposit Tutorial" %}
+4️. 核實身份認證  
+   ▶ 輸入個人資料  
+   ▶ 上傳身份證和自拍照
 
-\*\*\*\*
+5. 設置雙重身份驗證  
+   ▶ 點擊左上角的“個人賬戶”圖標  
+   ▶ 點擊“安全設置”  
+   ▶ 點擊“手機”  
+   ▶ 輸入手機號碼
 
-## **DKEY Buying & Staking Guide**
+6. 購買USDT  
+   ▶ 點擊主頁上的“立即買幣”  
+   ▶ 點擊上方的“法幣”  
+   ▶ 選擇右上角的“快捷區”  
+   ▶ 選擇“MYR”（馬幣）  
+   ▶ 點擊“我要買”  
+   ▶ 點擊“USDT”  
+   ▶ 選擇最優惠的價格後點擊“購買”  
+   ▶ 輸入購買金額  
+   ▶ 點擊“下單”  
+   ▶ 繼續付款  
+   ▶ 點擊“我已付款成功”
 
-1. Login DKEY Bank App at [https://app.dkey.io/](https://app.dkey.io/)
+7. 提現至DKEY銀行火幣賬戶  
+   ▶ 點擊“資產”  
+   ▶ 點擊“提幣”  
+   ▶ 輸入提幣地址 / 掃描二維碼  
+   ▶ 點擊“HECO”  
+   ▶ 輸入提幣數量  
+   ▶ 點擊“提幣”
 
-2. Buy DKEY  
-   ▶ Tap "Buy"  
-   ▶ Enter required information  
-   ▶ Tap "Submit"
+_**請參閱“DKEY加密鑰匙購買與質押指南”以完成私募。**_
 
-3. Stake DKEY  
-   ▶ Tap "Staking Vault"  
-   ▶ Tap "Earn Now" when you select the desired staking volume  
-   ▶ Select where to place the new staking contract  
-   ▶ Tap "Confirm"  
-   ▶ Tap "Send" to get authorisation code  
-   ▶ Enter OTP  
-   ▶ Tap "submit"
+_\*\*\*\*_
+
+🗃 **錢包地址：**0x720dcfb39909eef371b4407fe23d7a0f0a5efda4
+
+🔑 **DKEY銀行接受 USDT（HRC20）入金**
+
+💵 **匯率：**1美元 = 1 USDT
+
+![](.gitbook/assets/hrc20_usdt-and-husd_cn.jpg)
+
+**如若您在私募入金方面還存有疑惑，請點擊下載以下指南：**
+
+{% file src=".gitbook/assets/huo-bi-si-mu-ru-jin-zhi-nan-jian-ti-zhong-wen-ban-20210922.pdf" caption="火币私募入金指南（简体中文版）" %}
 
 
 
-**If you are still confused about the steps to buy and stake, you may download the document below** 👇🏻 
+## DKEY加密鑰匙購買和質押指南
 
-{% file src=".gitbook/assets/dkey-bank-app-tutorial-ui\_ux-2.0-\_20210917.pdf" caption="DKEY Bank App Tutorial" %}
+1. 登錄DKEY銀行應用：[https://app.dkey.io/](https://app.dkey.io/)
+
+2. 購買DKEY加密鑰匙  
+   ▶ 點擊“購買（私募輪）”  
+   ▶ 輸入轉賬資料  
+   ▶ 點擊“確認提交”
+
+3. 質押DKEY加密鑰匙  
+   ▶ 點擊“質押金庫”  
+   ▶ 選擇DKEY加密鑰匙質押數量後點擊“即時賺取”  
+   ▶ 選擇放置新合約的位置  
+   ▶ 點擊“確認”  
+   ▶ 點擊“發送”以獲取驗證碼  
+   ▶ 輸入驗證碼  
+   ▶ 點擊“確認提交”
+
+
+
+**如若您在購買或質押方面還存有疑惑，請點擊下載以下指南：**
+
+{% file src=".gitbook/assets/dkey-yin-hang-ying-yong-jiao-cheng-uiux-2.020210917.pdf" caption="DKEY银行应用教程" %}
 
 
 

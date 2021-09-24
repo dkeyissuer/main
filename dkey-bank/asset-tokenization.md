@@ -1,4 +1,4 @@
-# Asset Tokenization 💰
+# 資產代幣化💰
 
-DKEY Bank supports seamless conversions of traditional assets into DKEY \(Token\) via Asset Tokenization. Which provides an even broader investor who wishes to liquidate their traditional assets into DKEY \(Token\) without going through the long process of selling, buying and converting. Thus, improved accessibility, eliminating the middleman, and cost-effectiveness to the investors.
+DKEY銀行支持通過資產代幣化將傳統及加密資產無縫轉換為DKEY加密鑰匙\(代幣\)。 DKEY銀行提供了更廣泛的投資者，投資者希望將他們的資產變賣為DKEY加密鑰匙\(代幣\)，而不需要經過漫長的出售、購買和轉換過程。因此，資產代幣化改善了可及性，消除了中間商，並對投資者俱有更高成本的效益。
 

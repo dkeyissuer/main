@@ -1,46 +1,50 @@
 ---
-description: The distribution of DKEY Token & Usage of Allocation.
+description: DKEY 代幣分發和分配的使用。
 ---
 
-# Distribution & Allocation ⚖️
+# 分佈與分配⚖️
 
-### Distribution Chart  📊 
+### 分佈圖  📊 
 
-![Distribution of DKEY Tokens](../.gitbook/assets/chart.png)
+![](../.gitbook/assets/chart-cnt.png)
 
-### Seed Round🌱 
-
-#### **`20,000,000 DKEY`**
-
-This portion of funds will be used as start-up funds for the DKEY project. The “Seed Round” token sales will require **2 years locking period** for staking. 
-
-### Private Round🔏 
+###  ****種子輪🌱 
 
 #### **`20,000,000 DKEY`**
 
-The “Private Round” consists of 20 rounds of token sales, each round will only sell a limited unit of 1,000,000 DKEY \(Token\). The price per DKEY \(Token\) will increase according to market price until all **20 rounds** are completed. All-round of private token sales will require a **1 year locking period** for staking.
+種子輪資金將用作DKEY項目的啟動資金，種子輪的代幣需要2年的鎖定期。
 
-### Vault Rewards🏆 
-
-#### **`20,000,000 DKEY`**
-
-The “Vault Rewards” is used to **pay out a reward** to users who use DKEY Bank products and services that offer interests in return. By supporting the DKEY Bank ecosystem, users are rewarded for their staking collateral by accumulating synthetics that further expand in quantity, only as demand rises. This will be the first implementation of an **adoption-tied reward model**. As more networks adopt DKEY to reward their users, the governance model will be gradually implemented.
-
-### **Assets & Liquidity**💰 
+### 私募 🔏 
 
 #### **`20,000,000 DKEY`**
 
-A reward pool exchanges for partners who strengthen DKEY assets, liquidity and establish for DKEY long term goals, including both **traditional and crypto-assets**.  This will require a certain locking period based on achievement and request for ****a staking locking period.
+私募輪由20輪的代幣私募銷售組成，每輪只銷售1,000,000枚DKEY。每枚DKEY的價格將根據市場價格上升，直到所有20輪的私募完成銷售。所有私募輪代幣需要1年的鎖定期。  
 
-### **Founder Team**🐣 
+
+### 金庫獎勵🏆 
+
+#### **`20,000,000 DKEY`**
+
+“金庫獎勵”用於獎勵使用DKEY銀行產品和服務的用戶，以提供利息作為回報。通過支持DKEY銀行金融生態，用戶可以通過積累DKEY加密鑰匙\(只有在需求上升時才會進一步擴大數量\)來獲得質押的回報。前期私募輪銷售質押的代幣將實施採用掛鉤的獎勵模式直到鎖定期結束。隨著開放後越來越多用戶參與，後期將採用DKEY銀行金融生態的收益來獎勵用戶，治理模式將逐步實施。  
+
+
+### 資產和流動性💰 
+
+#### **`20,000,000 DKEY`**
+
+為加強DKEY資產、流動性，並為DKEY建立長期目標\(包括傳統和加密資產\)的合作夥伴作為交換的資產。將根據當時DKEY成就及合作條件等來建立明確及準確的鎖定期。
+
+### 創始團隊🐣 
 
 #### **`10,000,000 DKEY`**
 
-A reward pool consistently pays for the development team and advisors, this will require **2 years locking period** based on the project projection and achievement.
+將持續支付相對應的數量給開發團隊和顧問，這項獎勵需要2年的鎖定期，並且基於項目的進度和達成目標。  
+****
 
-### Community🌹 
+### 社區
 
 #### **`10,000,000 DKEY`**
 
-A reward pool consistently pays for the community builder, ongoing campaign to attract new users,  and contract bug-finder. This will require a certain locking period **based on the achievement** that had been reached.
+為社區建設者、吸引新用戶的持續活動，及系統中錯誤發現者提供獎勵。這些明確的鎖定期將**根據當前的成就**所設定。  
+
 

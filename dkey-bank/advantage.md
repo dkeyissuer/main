@@ -1,4 +1,4 @@
-# Distributions of Rewards 🎁
+# 獎金分配🎁
 
-DKEY Bank’s Ecosystem is dependent on DKEY \(Token\) as a settlement unit, every vault service requires it. So DKEY \(Token\) is highly utilized and valuable in the long run. Every reward that investors earn from DKEY Bank’s Vault services is rewarded in DKEY \(Token\). The amount is distributed evenly according to how much individual investors are contributing to the network.
+DKEY銀行的金融生態以DKEY加密鑰匙\(代幣\)作為結算單元，每個金庫服務都需要它才能開始進行。從長遠方面來看DKEY加密鑰匙具有很高的使用率和價值。投資者從DKEY銀行的金庫服務中獲得的每一個獎勵都以DKEY加密鑰匙\(代幣\)作為獎勵。該數額是根據投資者對DKEY加密鑰匙社區網絡的貢獻程度均勻分配利息。
 

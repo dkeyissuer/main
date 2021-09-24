@@ -1,70 +1,71 @@
 ---
-description: >-
-  Welcome to DKEY Bank, you will find all relevant information regarding DKEY
-  Bank's Ecosystem and the inner working of the DKEY Token.
+description: DKEY此後關於DKEY金融生態和DKEY代內部
 ---
 
-# Introduction ❤️
+# 簡介 ❤️
 
-### What is ![](.gitbook/assets/emoji.png) DKEY Bank? 
+### 什麼是 ![](.gitbook/assets/emoji.png) DKEY 銀行？
 
-DKEY Bank is an ecosystem that empowers users to be in control of their finances by creating crypto-based passive income and harnessing the potentials of decentralized finance technologies. The ecosystem is optimized to deliver user-friendly controls and management of their assets and finances.
+DKEY 銀行是一種金融生態, 創造基於加密的被動收益及使用去中心化金融技術的潛力，使用戶能夠有效地管理自己的財務。
 
-### What is the purpose of DKEY Bank? 🤔 
+### DKEY銀行的用途是什麼？ 🤔 
 
-DKEY Bank is fundamental to solve the problem that users faced in the crypto space. Currently, there is no clear guidance on the different type of cryptocurrency financing. The lack of knowledge can cause confusion and resistance. DKEY Bank’s ecosystem is a combination of popular crypto financing services that offer the user passive income that is informative with clear instructions.
+DKEY銀行是解決用戶在加密領域中所面臨問題的關鍵。目前，在各種類型的金融加密貨幣上並沒有出現準確且清晰地指示。因此，缺乏知識將會在這方面上造成困惑及阻礙。 DKEY銀行的金融生態是個結合了著名金融加密服務的組合，它提供予用戶明確信息及指示的被動收入。
 
 {% page-ref page="dkey-bank/ecosystem.md" %}
 
-### **Decentralized Finance** 🌐 
+### 去中心化金融 ****🌐 
 
-Decentralized Finance \(De-Fi\) is a **blockchain-based** financial institution that is not linked to any 3rd-party or intermediaries like banks and brokers. Decentralized Finance is among the most promising markets in blockchain technology. The demand for financial services on a decentralized technology is high. Because the nature of freely moving assets around captures the attention of many users. The optimistic expectations for the potential of this technology have been evident in the appreciating valuations of tokens native to DeFi protocols. The market value in the decentralized finance market has increased more than 50 times in the year 2020 and the current value is almost $60 Billion and increasing every day. After two years of conservative risk-taking, crypto investors have demonstrated that they’re willing to allocate capital to the most exciting use case of blockchain technology. Billions of people and institutions suffer from restricted or nonexistent access to financial services. But blockchain has extended beyond simply “banking the unbanked”. Therefore, different categories of services like DEX, Lending, NFT Games, Spot Exchange, Earn, Derivatives, AMM and much more financial products are developed and introduced to the market. 
-
-### **Problems** 🙅 
-
-Currently, almost every financial service available to the market is run by banks or brokerage. Ideally, the average user will put their hard-earned money in the bank for earning saving interest or opt for an investment product that is offered by the bank that yields almost nothing by the end of the terms, for the sake of growing their wealth. But that’s not all that simple, to make things even worse. There are hidden charges, transaction fees, the cross-border transaction is typically slow and expensive. All of this, because there are not many changes to the banking system for decades. Each transaction requires at least one or a few middlemen to complete. Since then fintech is trying hard to improve the banking system. However, banks are still hard-wired to existing intermediary banks.   
+去中心化金融\(De-Fi\)是一種基於區塊鏈技術的金融應用場景，不與任何第三方或銀行和經紀人等中介機構相連。同時，去中心化金融也是區塊鏈技術中最有前途的市場之一。在金融服務中對去中心化技術的需求很高，但是因為自由移動資產的本質依然吸引了許多用戶的注意。對該技術潛力的樂觀預期，從基於DeFi協議的代幣估值的升值中可以明顯看出。去中心化金融市場的市值到2020年已經增長了50多倍，目前市值近600億美元，並且每天都在增長。經過兩年保守的風險投資，加密貨幣投資者已經悟解了跟上市場的腳步是極為重要的，他們願意將資金分配到擁有區塊鏈技術的實用金融應用。另外，數十億人和機構長期受到金融服務限制抑或根本無法獲得更為優惠的金融服務困擾，通過去中心化金融的技術可以實現“無銀行的金融”。因此，不同類別的金融服務，如去中心化交易所, 借貸, NFT遊戲，流動性挖礦，衍生品，自動做市商等等，更多的金融產品被開發和被引入市場。
 
 
-Then comes the new contender to the old banking system, which is Cryptocurrencies and Decentralized Finance \(De-Fi\). The rise of decentralized technology gives new hopes and arguably the best alternative to the old banking system, which is now proven to change the future of the finance industry. However, decentralized finance services are still getting hiccups every now and then. Reliability is still a questionable problem faced by many of the users. The world of decentralization implies uncertainty at times, where the technology has yet to proven long term stability. As for now, users can buy and sell cryptocurrencies and investment. But that about it, peer-to-peer lending and asset tokenization have yet to catch mainstream adoption. There is still a barrier between traditional assets and cryptocurrencies that needs to be solved. Imagine the endless possibility of what cryptocurrencies can do, if there was no barrier between the two worlds.
+
+### 問題 ****🙅 
+
+目前，市場上幾乎所有的金融服務都是由銀行或經紀公司經營的。一般情況下，普通的用戶會把辛苦賺來的存入銀行賺取儲蓄利息，或選擇銀行提供的投資產品，而這些投資產品在截期前幾乎沒有任何收益。不僅如此，更糟的是還有隱藏費用及交易費用，而跨境交易的過程是更加緩慢且昂貴的。這一切都源自於銀行體係幾十年來沒有太多進步及變化，而且每筆交易至少需要一個或幾個中間人才能完成。因此，金融科技一直在努力改善銀行的金融體系，然而這些金融科技中，無法避免的銀行仍然與現有的中間銀行緊密相連。 
+
+因為這一成不變的銀行系統，市場衍生了新的競爭者——加密貨幣和去中心化金融\(De-Fi\)。去中心化技術的興起給人們帶來了新的希望，可以說是舊銀行體系的最佳替代方案，而現在已經證明了去中心化技術改變了金融行業的未來。與此同時去中心化金融的場景仍然不時出狀況及問題，可靠性仍然是許多用戶的疑慮，包括去中心化的金融世界中依然存在的不確定性，而技術更尚未證明具有長期的穩定性。目前而言，用戶可以自由買賣加密貨幣和投資，其中的P2P借貸和資產代幣化尚未得到主流採納，尤其傳統資產和加密貨幣之間仍然存在一個需要解決的障礙。
 
 {% tabs %}
-{% tab title="Non-Friendly" %}
-for newcomers to cross over barriers between cryptocurrencies and fiat currencies. Buying and selling cryptocurrencies is still a hassle to deal with.
+{% tab title="不友好" %}
+去中心化金融 \(DeFi\) 對於新手用戶來說並不易於使用，尤其第一步的資產轉化更是無法跨越加密貨幣和法定貨幣之間的障礙，購買和出售加密貨幣仍然不方便。
 {% endtab %}
 
-{% tab title="Lack of Knowledge" %}
-Decentralized finance \(DeFi\) space is extremely fragmented and difficult to navigate. Information is dispersed among unconnected products and services. The lack of knowledge is an issue that keeps users away.
+{% tab title="缺乏知識" %}
+去中心化金融 \(DeFi\) 的場景極其分散，而且技術含量高，信息分散在不相連的產品和服務中，一般用戶難以駕馭。缺乏知識是一個讓用戶望而卻步的問題。
 {% endtab %}
 
-{% tab title="Confusing" %}
-Users and liquidity providers often face challenges finding the right information and the right protocols for their needs.
+{% tab title="困惑" %}
+用戶進入去中心化金融時常面臨著巨大的挑戰，需要通過不同的方式尋找及審查合適及正確的信息來滿足他們的需求。
 {% endtab %}
 
-{% tab title="High Cost and Entry Capital  " %}
-High transaction fee on blockchain and potentially more when invoking a smart contract, users would need to wait several months just to recoup their transaction fee. This isn’t a major problem for those earning several hundred or thousands of dollars in yields per year, but for those earning more modest sums, the transaction fees can be significant, making it difficult to withdraw any accrued gains.
+{% tab title="高交易成本及入場資金" %}
+每一筆通過區塊鏈上的交易都有基本收費，當調用去中心化的智能合約時收費可能會更高，其中部分的去中心化金融合約，也有最低資金的門檻。對於每筆收入賺取幾百或幾千美元的用戶來說或許這問題並不大，但對於小額投資的用戶來說，交易費用可是非常大的，使其難以賺回費用及累積收益，小額投資的用戶可能無法達到最低門檻，或需要等上幾個月才能賺回其中的交易及合約費用。
 {% endtab %}
 {% endtabs %}
 
-### Solutions 💡 
+### 解決方案💡 
 
-An extremely fragmented ecosystem is to be expected given that DeFi is currently in an early stage of development. As DeFi industries mature, super apps emerge that consolidate the leading services and provide a new level of user functionality. Super apps which have immersed itself into every layer of society, in the crypto finance industry such as Binance have been rapidly increasing in usage, popularity and liquidity. Binance is the largest crypto exchange in the world, with $500 million in daily trading volume as of early 2019, and allows users to make deposits, trading in crypto, and CFDs.
+鑑於早期去中心化金融DeFi的白皮書還處於開發的階段，衍生一個極其碎片化的生態系統。隨著去中心化金融DeFi行業漸漸進入成熟階段，超級應用程序的出現必將鞏固領先服務的地位，並為用戶提供了功能上的新水平。超級應用程序已經融入了加密市場上的每一階層，如幣安的加密貨幣交易，它的使用性，普及性和流動性都在迅速成長，而幣安更成為了目前世界上最大的加密貨幣交易所之一。截至2019年初，該公司的日交易量為5億美元，允許用戶進行存款、加密貨幣交易和差價合約。
 
-### The Decentralized App 🧩 
 
-DKEY Bank will be the first super app built on the Binance Smart Chain ecosystem. To ensure our investor’s wealth is not compromised. DKEY Bank created a Token called “DKEY” a settlement token to create a tokenized ecosystem and rewarded it in DKEY Bank.  
-DKEY Bank is designed for investors who want to grow their wealth and future proof their assets without going through all the obstacles for earning their returns. DKEY Bank will introduce core products that combine access to staking, swap, lending, and liquidity pools mining into one application and open both to traditional and crypto-asset holders. Whatever a user wants to execute in the DKEY Bank will be only a few clicks away. DKEY Bank ecosystem is developed around the notion of simplicity in providing the user with a great experience. The user interface will be designed to maximise navigational efficiency leading to a seamless user experience. To achieve this level of scale, DKEY Bank creates each financial service with security and effectiveness in mind.
+
+### 去中心化應用程序 🧩 
+
+DKEY銀行將是首個基於幣安智能鏈生態系統打造的超級應用程序。這是為了確保我們的投資者的財富將不被去中心化金融的問題受到損害。 DKEY銀行創建的代幣稱為“DKEY加密鑰匙”，是DKEY銀行金融生態中用為結算的代幣，可以通過參與DKEY銀行中各項金融產品獲得的獎勵代幣。 DKEY銀行是專為那些想要增長自身的財富與未來的用戶而設的，他們的資產將無需通過任何舊金融體系的阻礙也能獲得回報。 DKEY銀行將會把質押，交易，借貸及挖礦全部整合在一個應用程序裡，並且都開放於傳統金融和加密資產持有者。無論用戶想在DKEY銀行中進行任何操作，只需點擊幾下即可進行。此外，DKEY銀行金融生態是以幾個簡單的概念而開發的，旨在給所有的用戶提供了一個友好的體驗。用戶界面的設計將最大限度地提高金融產品中的導航效率，帶來無縫的用戶體驗。為了達到這個水平上的規模，DKEY銀行需要創建安全有效的金融生態平台。  
+
 
 {% tabs %}
-{% tab title="User Friendly" %}
-We provide customer service and guidance to help newcomers & beginners cross over barriers between crypto and fiat currencies, starting from account opening, KYC verification, buying and selling cryptocurrencies in regional countries. 
+{% tab title="用戶友好" %}
+我們提供的客服及指導來幫助新用戶及加密貨幣初學者，跨越加密貨幣和法定貨幣之間的障礙，從開戶、KYC驗證、到在地國家買賣加密貨幣上提供全程的協助及指導。
 {% endtab %}
 
-{% tab title="Easy & Fast On-Boarding" %}
-Provided clear and clean user interface, does not require elaborate infrastructure and blockchain knowledge to get started in DeFi. DKEY Bank acts on behalf of users to participate in certain DeFi products, obtains and distributes realized earnings, and helps users to participate in DeFi products with a single click.
+{% tab title="方便與快捷的導航" %}
+提供清晰與方便快捷的用戶界面，用戶無需了解複雜的區塊鏈基礎設施及知識便可在DKEY銀行上開始。 DKEY銀行將代表用戶參與不同的去中心化金融，獲取並分配已實現收益給用戶，實現用戶一鍵參與各種不同的去中心化金融產品。
 {% endtab %}
 
-{% tab title="No Transaction Cost and Low Entry Capital" %}
-Users can exchange a variety of cryptocurrencies at competitive prices and start earning interest through the DKEY Bank ecosystem the moment users deposit. With DKEY Bank, users can earn interest with no hidden fees, no minimum balances, and no reason to wait. Interest accrues every minutes and flexible to withdrawal anytime.
+{% tab title="無交易費用及低額進場資金" %}
+用戶可以具有競爭力的價格交換各種加密貨幣，並通過DKEY銀行金融生態，在質押存款的那一刻開始馬上賺取利息。通過DKEY銀行，用戶可以快速開始賺取利息，並且沒有任何隱藏費用及最低投資額限制。用戶賺取收益無需等待，DKEY銀行的利息每分鐘都在結算，用戶可以實現財富增長並且隨時可進行提現。
 {% endtab %}
 {% endtabs %}
 

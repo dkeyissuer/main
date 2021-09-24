@@ -1,29 +1,25 @@
 # Table of contents
 
-* [Introduction ❤️](README.md)
-* [FAQs 📖](faqs.md)
-* [Private Sales 🎯](private-sales.md)
+* [簡介 ❤️](README.md)
+* [常見問題📖](faqs.md)
+* [私募 🎯](private-sales.md)
 
-## DKEY Bank
+## DKEY 銀行 <a id="dkey-bank"></a>
 
-* [Ecosystem 🧬](dkey-bank/ecosystem.md)
-* [Distributions of Rewards 🎁](dkey-bank/advantage.md)
-* [Asset Tokenization 💰](dkey-bank/asset-tokenization.md)
+* [金融生態 🧬](dkey-bank/ecosystem.md)
+* [獎金分配🎁](dkey-bank/advantage.md)
+* [資產代幣化💰](dkey-bank/asset-tokenization.md)
 
-## Bank Vaults
+## 銀行金庫 <a id="bank-vaults"></a>
 
-* [Protocol Overview ⚙️](bank-vaults/swap-vault.md)
+* [協議概述 ⚙️](bank-vaults/swap-vault.md)
 
-## DKEY Token
+## DKEY 代幣 <a id="dkey-token"></a>
 
-* [Tokenomics 🪙](dkey-token/the-token.md)
-* [Distribution & Allocation ⚖️](dkey-token/token-usage.md)
+* [金融生態圈](dkey-token/the-token.md)
+* [分佈與分配⚖️](dkey-token/token-usage.md)
 
-## Milestone
+---
 
-* [Roadmap 📝](milestone/roadmap.md)
-
-## Terms & Conditions
-
-* [User Agreement 📖](terms-and-conditions/user-agreement.md)
+* [發展藍圖 📝](fa-zhan-lan-tu.md)
 

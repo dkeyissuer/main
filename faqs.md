@@ -1,18 +1,18 @@
-# FAQs 📖
+# 常見問題📖
 
-## What Is DKEY Bank?
+## DKEY 銀行是什麼？
 
-DKEY BANK is an AMM\(Auto Market Maker\) Protocol that provides various type of investment products that available in BSC \(Binance Smart Chain\). It helps the users/investors to achieve high return on the investment product from the STAKING VAULT with low transaction fee and time. With SWAP VAULT, integrate with BINANCE liquidity, it helps our users / investors to get the best exchange rate between the cryptocurrencies with lower fee and less slippage.
+DKEY 銀行是一种AMM协议；该协议在Binance Smart Chain（BSC）上融合了多策略收益优化功能，收费低/延误率低，还通过STAKING VAULT质押复利聚合产生收益来实现最大的回报；SWAP VAULT为用户提供了交换主流及稳定币的最有效方法，它对接了币安的流动性，并提供0手续费，也提供比其他交换协议更低的滑动。
 
-## What are DKEY BANK Services?
+## DKEY Bank 提供什麼服務？
 
-DKEY Bank focuses on cross-chain STAKING VAULT provider services that includes various types of valuable and highly reliable crypto staking project from HECO,BSC,Polygon and ETH 2.0 . We help users / investors to eliminate the unnecessary work and processes to maximise their profit and minimising their cost on the participation of every staking project. To ensure its profitability , DKEY Banks are connected to some of the most reliable staking contracts in the DeFi Ecosystem. This makes DKEY Bank become strong backbone of all the reliable staking projects in different chain that creates an exquisite way to all the crypto users.
+DKEY Bank還專注於通過跨鏈幣種質押獎勵和多策略優化金庫系統的結合，為用戶提供最佳收益。用戶不需要像其他協議或DeFi那樣主動地在協議之間移動資產以獲得最佳收益， DKEY Bank 金庫會代理用戶去做。這保證了最高，最可靠的產量可能，因為 DKEY Bank結合了許多DeFi生態系統，伴隨著DKEY Bank 越來越多地包含更多的戰略、資產和鏈條，這種效應將繼續增長。
 
-## What do we solve?
+## DKEY Bank能夠解決什麼問題？
 
-DKEY Bank help all the crypto investors to filter the unnecessary procedures, works and fee requested in other staking projects on different chain \( ETH、HECO、BSC、Polygon\) with just a matter of a click button. We make sure our users / investors will be able to participate on all the most reliable staking projects in the DeFi Ecosystem , in a simple way without missing any profit.
+DeFi世界被分成不同的鏈\(以太坊、HECO、BSC、Polygon等\)，用戶很難在多個鏈上使用和體驗DeFi，用戶需要去審查更多DeFi場景及合約，付出更多DeFi場景使用費用，這意味著他們經常錯過更高收益的機會。 DKEY Bank將讓我們的用戶知道，跨不同的鏈條並獲得最高的收益率，很簡單只需使用DKEY Bank！
 
-## What is the mechanism of DKEY?
+## DKEY Bank的代幣\(DKEY\)機制？
 
-We have a limited supply of 100M unit of DKEY registered in BSC. By providing a user friendly method of investment , DKEY Bank encapsulates some of the valuable crypto assets that increase our TVL on the market. DKEY becomes a unit that represent the value of DKEY Bank and vault rewards from ecosystem. The TVL of DKEY will be increasing while the amount of staking projects are ongoing. To ensure its sustainability , the profit will be allocated for burning program that involves the “buyback” of DKEY from the market for demolishing purpose to reduce the total supply and increase the value of DKEY. This will ensure the profitability of our investors and keep our DKEY value in shape.
+整體DKEY代幣機制 總量為100,000,000枚，恆定發行量。通過提供更多協議及用戶發展，能創造更高的TVL及收益率。 DKEY作為DKEY Bank金庫的獎勵單位，幣價會與用戶賺取的綜合收益掛鉤。 DKEY Bank會將收益通過回購市面的DKEY作為持續的金庫獎勵，達成固定里程碑並定期燒毀。隨著更多策略協議帶來更高收益率，隨著更多收益率的應用，DKEY代幣的價值將不斷增加，這個是DKEY代幣的機制及價位支撐，體現DKEY的價值並且會持續上升。
 

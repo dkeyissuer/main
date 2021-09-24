@@ -1,17 +1,15 @@
 ---
-description: >-
-  The Ecosystem is the heart of DKEY Bank, which is a combination of different
-  crypto finances. The services DKEY Bank offers is knowns as “Vault”.
+description: 金融生態是DKEY銀行的核心，它是由不同加密金融而組合成的。 DKEY銀行所提供的金融服務被稱為“金庫”。
 ---
 
-# Ecosystem 🧬
+# 金融生態 🧬
 
-### The Ecosystem 🌳 
+### 金融生態 🌳 
 
-DKEY Bank will be the first super app built on the Binance Smart Chain ecosystem. To ensure our investor’s wealth is not compromised. DKEY Bank created a Token called “DKEY” a settlement token to create a tokenized ecosystem and rewarded it in DKEY Bank.  
-DKEY Bank is designed for investors who want to grow their wealth and future proof their assets without going through all the obstacles for earning their returns. 
+DKEY銀行將是首個基於幣安智能鏈生態系統打造的超級應用程序。這是為了確保我們的投資者的財富將不被去中心化金融的問題受到損害。 DKEY銀行創建的代幣稱為“DKEY加密鑰匙”，是DKEY銀行金融生態中用為結算的代幣，可以通過參與DKEY銀行中各項金融產品獲得的獎勵代幣。 DKEY銀行是專為那些想要增長自身的財富與未來的用戶而設的，他們的資產將無需通過任何舊金融體系的阻礙也能獲得回報。
 
-### The Vaults 🔒 
+### 金庫🔒 
 
-DKEY Bank will introduce core products that combine access to staking, swap, lending, and liquidity pools mining into one application and open both to traditional and crypto-asset holders. Whatever a user wants to execute in the DKEY Bank will be only a few clicks away. DKEY Bank ecosystem is developed around the notion of simplicity in providing the user with a great experience. The user interface will be designed to maximise navigational efficiency leading to a seamless user experience. To achieve this level of scale, DKEY Bank creates each financial service with security and effectiveness in mind.
+DKEY銀行將會把質押，交易，借貸及挖礦全部整合在一個應用程序裡，並且都開放於傳統金融和加密資產持有者。無論用戶想在DKEY銀行中進行任何操作，只需點擊幾下即可進行。此外，DKEY銀行金融生態是以幾個簡單的概念而開發的，旨在給所有的用戶提供了一個友好的體驗。用戶界面的設計將最大限度地提高金融產品中的導航效率，帶來無縫的用戶體驗。為了達到這個水平上的規模，DKEY銀行需要創建安全有效的金融生態平台。  
+
 

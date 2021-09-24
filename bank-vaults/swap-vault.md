@@ -1,31 +1,30 @@
 ---
 description: >-
-  DKEY Bank utilized DKEY (Token) for all of the financial products that are
-  available on the platform. DKEY (Token) is created via BEP-20. DKEY Banks has
-  mainly 4 financial products.
+  DKEY銀行平台上所有的金融產品都需要使用DKEY加密鑰匙進行。 DKEY加密鑰匙是通過運行在幣安鍊網絡上的BEP-20(幣安智能鏈)智能合約創建。
+  DKEY銀行有四個主要的金融產品被稱為金庫。
 ---
 
-# Protocol Overview ⚙️
+# 協議概述 ⚙️
 
-### Vault Protocol 🔑 
+### 金庫協議 🔑 
 
-![Overview of Vault System run on Binance Smart Chain Network](../.gitbook/assets/dkey-bsc.png)
+![](../.gitbook/assets/dkey-bsc_cnt-2-.png)
 
-### **Swap Vault** 🔄 
+### 交易金庫 ****🔄 
 
-Swap vault utilizes Binance Smart Chain and Binance Bridge cross-chain functionality to easily swap DKEY Token with any mainstream cryptocurrencies on the market with lower fees and faster settlement.
+交易金庫利用幣安智能鍊和幣安橋跨鏈功能，以更低的費用和更快的結算，輕鬆地將DKEY加密鑰匙\(代幣\)與市場上任何主流的加密貨幣進行交換。
 
-### **Staking Vault** 🌱 
+### 質押金庫 ****🌱 
 
-Staking vault allows investors to take the opportunity to participate in maintaining the blockchain of DKEY \(Token\). In return, the investor received a reward for their participation. Users can deposit their assets into DKEY Bank and stake for passive income. The reward is equally distributed to all stakeholders according to their staking amount.
+質押金庫允許投資者有機會去參與維護DKEY加密鑰匙上的區塊鏈運行。作為回報，投資者獲得了他們相對參與的報酬。用戶可將他們所持有的資產存入DKEY銀行及質押以獲取被動收入。依據持幣人質押的數額，回報將平均分配予所有的持幣人。
 
-### **Lending Vault** 🤝 
+### 借貸金庫 ****🤝 
 
-Lending is also known as crypto loan. Lending vault provides investors with the option to use their existing assets as collateral, whether is cryptocurrencies or traditional assets as borrowing collateral. In an exchange with DKEY \(Token\). Moreover, DKEY Bank is offering “Asset Tokenization” as an option for those who want to utilize their traditional assets for collateral and get liquidated in cryptocurrencies.
+借貸也可稱為加密貨幣貸款。借貸金庫為投資者提供了抵押其現有資產的選擇，無論是加密貨幣還是傳統資產作為藉貸抵押品都可以與DKEY加密鑰匙\(代幣\)交換。此外，DKEY銀行正在提供“資產代幣化”服務，為那些希望利用其傳統資產作為抵押並以加密貨幣進行清算的用戶提供了選擇。
 
-### **Mining Vault** ⛏ 
+### 挖礦金庫 ****⛏ 
 
-Mining Vault allows investors to earn DKEY \(Token\) with their existing cryptocurrencies. Mining Vault allows user to provide new liquidity for DKEY Bank’s vault services to receive both liquidity provider’s token and DKEY \(Token\) as their rewards.  
+挖礦金庫允許投資者使用他們其他現有的加密貨幣來賺取DKEY加密鑰匙。挖礦金庫允許用戶作為DKEY銀行金庫新的流動商，提供流動性的加密貨幣和DKEY加密鑰匙，並且以相對應的加密貨幣及DKEY作為他們的獎勵。  
   
 
 
