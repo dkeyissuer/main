@@ -19,7 +19,11 @@
 * [Tokenomics 🪙](dkey-token/the-token.md)
 * [Distribution & Allocation ⚖️](dkey-token/token-usage.md)
 
----
+## Milestone
 
-* [Roadmap 📝](roadmap.md)
+* [Roadmap 📝](milestone/roadmap.md)
+
+## Terms & Conditions
+
+* [User Agreement](terms-and-conditions/user-agreement.md)
 
