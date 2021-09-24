@@ -19,13 +19,13 @@
 * [金融生态圈](dkey-token/the-token.md)
 * [分布与分配⚖️](dkey-token/token-usage.md)
 
-## 里程碑
+## 里程碑 <a id="milestones"></a>
 
-* [发展蓝图 📝](li-cheng-bei/roadmap.md)
+* [发展蓝图 📝](milestones/roadmap.md)
 
-## 条款和条件
+## 条款和条件 <a id="terms-conditions"></a>
 
 ---
 
-* [DKEY银行用户协议](user-agreement.md)
+* [DKEY银行用户协议 📜](user-agreement.md)
 
