@@ -1,134 +1,137 @@
-# Roadmap 📝
+# 發展藍圖 📝
 
-##  📊 First Quarter 2021 : （ ✅ done）
+## 📊 2021 第一季度： （  ✅ 已完成） 
 
-### **Seed Round** 
+### **種子輪** 
 
-✅ $1,320,000 Token Locking Period 2 years
+✅ $1,320,000 代幣鎖定期為2年 
 
-###  **DKEY Development** 
+### **DKEY加密鑰匙發展** 
 
-✅ Binance Liquidity Trust Account 
+✅ 幣安流動性信託賬戶 
 
-✅ Binance Smart Chain Contract 
+✅ 幣安智能鏈合約 
 
-✅ Official website & whitepaper
+✅ 官網及白皮書
 
 
 
-## 📊 Quarter 2 2021：（ ✅ done）
+## 📊 2021 第二季度：（  ✅ 已完成） 
 
-### **Private Round Launching** 
+###  **私募正式上線** 
 
-✅ Private Round 1 \($0.30\) & Round 2 \($0.50\) successfully adopted
+✅ 私募價1\($0.30\) 私募輪2 \($0.50\) 完成募資 
 
-✅ Token Locking Period 12 months
+✅ 代幣鎖定期為12個月 
 
-✅ Total fund raising $800,000
+✅ 總共籌集了$800,000
 
-### **Launch DKEY Bank App** 
+### **發布上線**DKEY銀行應用程序
 
-✅DKEY Bank APP \(Beta Version\) with Swap & Staking Vault LIVE !!!
+✅ DKEY銀行私募輪APP \(測試版\) 
 
-### Exchange Listing
+✅ 交易&質押金庫上線!! 
 
-✅ Listed in Probit Global
+### 交易所上市
 
-✅ Global Top 20 & Korea regulated cryptocurrency exchange
+✅ 在Probit Global中上幣
 
-✅ Listing Price $1.00
+✅ 全球20強和韓國監管加密貨幣交易所
 
-###  **DKEY Concept Office Launching** 
+✅ 上市價格$1.00
 
-✅ Soft Launching Event   
-         Postponed to Q3
+### **DKEY銀行概念式辦公室啟動** 
 
-## 📊 Quarter 3 2021 :
+✅ 試營業開幕活動  
+         延遲至2021第三季度
 
-### **Global Market**
+## 📊 2021 第三季度： 
 
-✅ Private Round Price from $0.80 - $5.00
+### 國際市場
 
-✅ Token Locking Period 12 months
+✅ 私募價從$0.80 - $5.00
 
-✅ Staking BNB & Asset Valuation \(TVL\)
+✅ 代幣鎖定期為12個月
 
-### Super Node Recruitment
+✅ 幣安鏈質押資產評估 \(總鎖倉量\)
 
-✅ Recruit regional super nodes \(Malaysia, Singapore, China & Korea\)
+### **超級節點招募** 
 
-✅ Regional marketing campaign
+✅ 招募區域超級節點   
+        \(馬來西亞、新加坡、中國和韓國\)
 
-✅ DKEY concept office launching
+✅ 區域營銷活動
 
-### **Exchange Listing**
+✅DKEY概念辦公室推出 
 
-\*\*\*\*✅ ****Listing exchanges which regulated in super nodes regional country.
+### 交易所上市
 
-## 📊 Quarter 4 2021 :
+✅ 上市超節點國家級監管交易所
 
-### Global Market
+## 📊 2021 第四季度 : 
 
-✅ Private Round Price from $5.00 - $15.00
+### 國際市場
 
-### Coinmarketcap
-
-✅ Several exchange listing price $5.00
-
-✅ Fully liquidated into cryptocurrency markets
-
-✅ Rank as Global top 300 cryptocurrency
-
-✅ Market Cap achieve $500 million
-
-### **DKEY Bank Ecosystem Super APP** 
-
-✅ Staking vault for multiple crypto assets savings.  
-         Voting and governance function enable
-
-## 📊 First Quarter 2022 :
-
-### **DKEY BANK Ecosystem Super APP**
-
-✅ Mining Vault LIVE !!
-
-✅ Lottery & Trading function enable
-
-### **Binance** 
-
-✅ Listing price $15.00
-
-✅ Participate in Binance Launchpad and Launch Pool
+✅ 私募輪價格從$5.00 - $ 15.00
 
 ### Coinmarketcap
 
-✅ Rank as Global top 200 cryptocurrency
+✅ 多家交易所上市價格為$5.00
 
-✅ Market Cap achieve $1 billion
+✅ 完全流動至自由交易市場
 
-## 📊 Quarter 2 2022 :
+✅ 位列全球前300強加密貨幣
 
-### **DKEY Bank APP Public Version**
+✅ 市值達到 $5億
 
-✅ Wallet Direct function integrated with DKEY Bank APP
+### DKEY 銀行APP金融生態系統開發 
 
-✅ Enhanced 4 KEY vault function
+✅ 多重加密資產儲蓄的質押金庫   
+         啟用投票和治理功能
 
-✅ Cross-chain crypto assets swap vault
+## 📊 2022 第一季度 ：
 
-✅ Cross-chain crypto assets staking vault
+### DKEY銀行金融生態系統超級APP
 
-### Airdrop
+✅ 挖礦金庫正式**上線！ ！**
 
-✅ Airdrop to private round investor and community
+\*\*\*\*✅ ****啟用彩票和交易功能
 
-## 📊 Quarter 3 2022 :
+### 币安
 
-### Asset Tokenization
+✅ 上市價格為$15.00
 
-✅ Variety asset valuation and tokenization into DKEY ecosystem
+✅ 參與幣安的Launchpad & Launch Pool
 
-### NFTs
+### **Coinmarketcap** 
 
-✅ Charity NFTs function enable for donation and society sustainable development program
+✅ 位列全球200強加密貨幣 
+
+✅市值達到 $10億
+
+## 📊 2022 第二季度 ：
+
+### DKEY銀行APP公眾版本
+
+✅ DKEY銀行APP整合成 Wallet Direct 功能
+
+✅ 增強4大金庫關鍵功能
+
+✅ 跨鏈加密資產交易金庫
+
+✅ 跨鏈加密資產質押金庫
+
+### 空投
+
+✅ 空投予私募投資者和社區
+
+## 📊 2022 第三季度
+
+### 資產代幣化
+
+✅ ****將資產估值和代幣化納入DKEY金融生態系統
+
+### 非同質化代幣
+
+✅ 慈善非同質化代幣\(NFTs\)的功能支持捐贈和社會可持續發展計劃
 
