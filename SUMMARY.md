@@ -21,11 +21,11 @@
 
 ## 里程碑
 
-* [发展蓝图 📝](li-cheng-bei/fa-zhan-lan-tu.md)
+* [发展蓝图 📝](li-cheng-bei/roadmap.md)
 
 ## 条款和条件
 
 ---
 
-* [DKEY银行用户协议](untitled.md)
+* [DKEY银行用户协议](user-agreement.md)
 
