@@ -2,7 +2,7 @@
 description: 'Last Revised: 22nd Sep 2021'
 ---
 
-# User Agreement 📖
+# User Agreement 📜
 
 This User Agreement is entered into between you \(hereinafter referred to as “you” or “your”\) and DKEY Bank Operators \(as defined below\). By accessing, downloading, using or clicking on “I agree” to accept any DKEY Bank Services \(as defined below\) provided by DKEY Bank \(as defined below\), you agree that you have read, understood and accepted all of the terms and conditions stipulated in this User Agreement \(hereinafter referred to as “this Agreement ”\) as well as our Privacy Policy. Furthermore, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
