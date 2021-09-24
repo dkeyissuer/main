@@ -25,5 +25,5 @@
 
 ## 條款和條件 <a id="terms-conditions"></a>
 
-* [DKEY銀行用戶協議](terms-conditions/untitled.md)
+* [DKEY銀行用戶協議](terms-conditions/user-agreement.md)
 
