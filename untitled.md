@@ -1,2 +1,4 @@
-# Untitled
+# Not Found
+
+## Error 404
 
