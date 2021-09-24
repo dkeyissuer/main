@@ -25,5 +25,5 @@
 
 ## Terms & Conditions
 
-* [User Agreement](terms-and-conditions/user-agreement.md)
+* [User Agreement 📖](terms-and-conditions/user-agreement.md)
 
