@@ -62,7 +62,7 @@ _****_
 
 &#x20;💵 **匯率：**1美元** **= 1 USDT&#x20;
 
-
+![](.gitbook/assets/USDT-deposit-poster\_BEP20\_CN.jpg)
 
 **如若您在私募入金方面還存有疑惑，請點擊下載以下指南：**
 
