@@ -1,134 +1,133 @@
 # Roadmap 📝
 
-##  📊 First Quarter 2021 : （ ✅ done）
+## &#x20;:bar\_chart: First Quarter 2021 : （ :white\_check\_mark: done）
 
-### **Seed Round** 
+### **Seed Round **
 
-✅ $1,320,000 Token Locking Period 2 years
+:white\_check\_mark: $1,320,000 Token Locking Period 2 years
 
-###  **DKEY Development** 
+### ** DKEY Development **
 
-✅ Binance Liquidity Trust Account 
+:white\_check\_mark: Binance Liquidity Trust Account&#x20;
 
-✅ Binance Smart Chain Contract 
+:white\_check\_mark: Binance Smart Chain Contract&#x20;
 
-✅ Official website & whitepaper
+:white\_check\_mark: Official website & whitepaper
 
 
 
-## 📊 Quarter 2 2021：（ ✅ done）
+## :bar\_chart: Quarter 2 2021：（ :white\_check\_mark: done）
 
-### **Private Round Launching** 
+### **Private Round Launching **
 
-✅ Private Round 1 \($0.30\) & Round 2 \($0.50\) successfully adopted
+:white\_check\_mark: Private Round 1 ($0.30) & Round 2 ($0.50) successfully adopted
 
-✅ Token Locking Period 12 months
+:white\_check\_mark: Token Locking Period 12 months
 
-✅ Total fund raising $800,000
+:white\_check\_mark: Total fund raising $800,000
 
-### **Launch DKEY Bank App** 
+### **Launch DKEY Bank App**&#x20;
 
-✅DKEY Bank APP \(Beta Version\) with Swap & Staking Vault LIVE !!!
+:white\_check\_mark:DKEY Bank APP (Beta Version) with Swap & Staking Vault LIVE !!!
 
 ### Exchange Listing
 
-✅ Listed in Probit Global
+:white\_check\_mark: Listed in Probit Global
 
-✅ Global Top 20 & Korea regulated cryptocurrency exchange
+:white\_check\_mark: Global Top 20 & Korea regulated cryptocurrency exchange
 
-✅ Listing Price $1.00
+:white\_check\_mark: Listing Price $1.00
 
-###  **DKEY Concept Office Launching** 
+### &#x20;**DKEY Concept Office Launching**&#x20;
 
-✅ Soft Launching Event   
-         Postponed to Q3
+:white\_check\_mark: Soft Launching Event \
+&#x20;        Postponed to Q3
 
-## 📊 Quarter 3 2021 :
+## :bar\_chart: Quarter 3 2021 :
 
 ### **Global Market**
 
-✅ Private Round Price from $0.80 - $5.00
+:white\_check\_mark: Private Round Price from $0.80 - $5.00
 
-✅ Token Locking Period 12 months
+:white\_check\_mark: Token Locking Period 12 months
 
-✅ Staking BNB & Asset Valuation \(TVL\)
+:white\_check\_mark: Staking BNB & Asset Valuation (TVL)
 
 ### Super Node Recruitment
 
-✅ Recruit regional super nodes \(Malaysia, Singapore, China & Korea\)
+:white\_check\_mark: Recruit regional super nodes (Malaysia, Singapore, China & Korea)
 
-✅ Regional marketing campaign
+:white\_check\_mark: Regional marketing campaign
 
-✅ DKEY concept office launching
+:white\_check\_mark: DKEY concept office launching
 
 ### **Exchange Listing**
 
-\*\*\*\*✅ ****Listing exchanges which regulated in super nodes regional country.
+****:white\_check\_mark:** **Listing exchanges which regulated in super nodes regional country.
 
-## 📊 Quarter 4 2021 :
+## :bar\_chart: Quarter 4 2021 :
 
 ### Global Market
 
-✅ Private Round Price from $5.00 - $15.00
+:white\_check\_mark: Private Round Price from $5.00 - $15.00
 
 ### Coinmarketcap
 
-✅ Several exchange listing price $5.00
+:white\_check\_mark: Several exchange listing price $5.00
 
-✅ Fully liquidated into cryptocurrency markets
+:white\_check\_mark: Fully liquidated into cryptocurrency markets
 
-✅ Rank as Global top 300 cryptocurrency
+:white\_check\_mark: Rank as Global top 300 cryptocurrency
 
-✅ Market Cap achieve $500 million
+:white\_check\_mark: Market Cap achieve $500 million
 
-### **DKEY Bank Ecosystem Super APP** 
+### **DKEY Bank Ecosystem Super APP**&#x20;
 
-✅ Staking vault for multiple crypto assets savings.  
-         Voting and governance function enable
+:white\_check\_mark: Staking vault for multiple crypto assets savings.\
+&#x20;        Voting and governance function enable
 
-## 📊 First Quarter 2022 :
+## :bar\_chart: First Quarter 2022 :
 
 ### **DKEY BANK Ecosystem Super APP**
 
-✅ Mining Vault LIVE !!
+:white\_check\_mark: Mining Vault LIVE !!
 
-✅ Lottery & Trading function enable
+:white\_check\_mark: Lottery & Trading function enable
 
-### **Binance** 
+### **Binance **
 
-✅ Listing price $15.00
+:white\_check\_mark: Listing price $15.00
 
-✅ Participate in Binance Launchpad and Launch Pool
+:white\_check\_mark: Participate in Binance Launchpad and Launch Pool
 
 ### Coinmarketcap
 
-✅ Rank as Global top 200 cryptocurrency
+:white\_check\_mark: Rank as Global top 200 cryptocurrency
 
-✅ Market Cap achieve $1 billion
+:white\_check\_mark: Market Cap achieve $1 billion
 
-## 📊 Quarter 2 2022 :
+## :bar\_chart: Quarter 2 2022 :
 
 ### **DKEY Bank APP Public Version**
 
-✅ Wallet Direct function integrated with DKEY Bank APP
+:white\_check\_mark: Wallet Direct function integrated with DKEY Bank APP
 
-✅ Enhanced 4 KEY vault function
+:white\_check\_mark: Enhanced 4 KEY vault function
 
-✅ Cross-chain crypto assets swap vault
+:white\_check\_mark: Cross-chain crypto assets swap vault
 
-✅ Cross-chain crypto assets staking vault
+:white\_check\_mark: Cross-chain crypto assets staking vault
 
 ### Airdrop
 
-✅ Airdrop to private round investor and community
+:white\_check\_mark: Airdrop to private round investor and community
 
-## 📊 Quarter 3 2022 :
+## :bar\_chart: Quarter 3 2022 :
 
 ### Asset Tokenization
 
-✅ Variety asset valuation and tokenization into DKEY ecosystem
+:white\_check\_mark: Variety asset valuation and tokenization into DKEY ecosystem
 
 ### NFTs
 
-✅ Charity NFTs function enable for donation and society sustainable development program
-
+:white\_check\_mark: Charity NFTs function enable for donation and society sustainable development program
