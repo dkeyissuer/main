@@ -18,11 +18,11 @@ DKEY Bank is fundamental to solve the problem that users faced in the crypto spa
 [ecosystem.md](dkey-bank/ecosystem.md)
 {% endcontent-ref %}
 
-### **Decentralized Finance **:globe\_with\_meridians:&#x20;
+### **Decentralized Finance** :globe\_with\_meridians:&#x20;
 
 Decentralized Finance (De-Fi) is a **blockchain-based** financial institution that is not linked to any 3rd-party or intermediaries like banks and brokers. Decentralized Finance is among the most promising markets in blockchain technology. The demand for financial services on a decentralized technology is high. Because the nature of freely moving assets around captures the attention of many users. The optimistic expectations for the potential of this technology have been evident in the appreciating valuations of tokens native to DeFi protocols. The market value in the decentralized finance market has increased more than 50 times in the year 2020 and the current value is almost $60 Billion and increasing every day. After two years of conservative risk-taking, crypto investors have demonstrated that they’re willing to allocate capital to the most exciting use case of blockchain technology. Billions of people and institutions suffer from restricted or nonexistent access to financial services. But blockchain has extended beyond simply “banking the unbanked”. Therefore, different categories of services like DEX, Lending, NFT Games, Spot Exchange, Earn, Derivatives, AMM and much more financial products are developed and introduced to the market.&#x20;
 
-### **Problems **:person\_gesturing\_no:&#x20;
+### **Problems** :person\_gesturing\_no:&#x20;
 
 Currently, almost every financial service available to the market is run by banks or brokerage. Ideally, the average user will put their hard-earned money in the bank for earning saving interest or opt for an investment product that is offered by the bank that yields almost nothing by the end of the terms, for the sake of growing their wealth. But that’s not all that simple, to make things even worse. There are hidden charges, transaction fees, the cross-border transaction is typically slow and expensive. All of this, because there are not many changes to the banking system for decades. Each transaction requires at least one or a few middlemen to complete. Since then fintech is trying hard to improve the banking system. However, banks are still hard-wired to existing intermediary banks. \
 

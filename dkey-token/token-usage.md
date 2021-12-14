@@ -30,7 +30,7 @@ The “Vault Rewards” is used to **pay out a reward** to users who use DKEY Ba
 
 #### **`20,000,000 DKEY`**
 
-A reward pool exchanges for partners who strengthen DKEY assets, liquidity and establish for DKEY long term goals, including both **traditional and crypto-assets**.  This will require a certain locking period based on achievement and request for** **a staking locking period.
+A reward pool exchanges for partners who strengthen DKEY assets, liquidity and establish for DKEY long term goals, including both **traditional and crypto-assets**.  This will require a certain locking period based on achievement and request for **** a staking locking period.
 
 ### **Founder Team**:hatching\_chick:&#x20;
 

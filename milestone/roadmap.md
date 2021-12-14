@@ -2,11 +2,11 @@
 
 ## &#x20;:bar\_chart: First Quarter 2021 : （ :white\_check\_mark: done）
 
-### **Seed Round **
+### **Seed Round**&#x20;
 
 :white\_check\_mark: $1,320,000 Token Locking Period 2 years
 
-### ** DKEY Development **
+### &#x20;**DKEY Development**&#x20;
 
 :white\_check\_mark: Binance Liquidity Trust Account&#x20;
 
@@ -18,7 +18,7 @@
 
 ## :bar\_chart: Quarter 2 2021：（ :white\_check\_mark: done）
 
-### **Private Round Launching **
+### **Private Round Launching**&#x20;
 
 :white\_check\_mark: Private Round 1 ($0.30) & Round 2 ($0.50) successfully adopted
 
@@ -63,7 +63,7 @@
 
 ### **Exchange Listing**
 
-****:white\_check\_mark:** **Listing exchanges which regulated in super nodes regional country.
+****:white\_check\_mark: **** Listing exchanges which regulated in super nodes regional country.
 
 ## :bar\_chart: Quarter 4 2021 :
 
@@ -94,7 +94,7 @@
 
 :white\_check\_mark: Lottery & Trading function enable
 
-### **Binance **
+### **Binance**&#x20;
 
 :white\_check\_mark: Listing price $15.00
 

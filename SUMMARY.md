@@ -2,7 +2,6 @@
 
 * [Introduction ❤️](README.md)
 * [FAQs 📖](faqs.md)
-* [Private Sales 🎯](private-sales.md)
 
 ## DKEY Bank
 
@@ -26,4 +25,3 @@
 ## Terms & Conditions
 
 * [User Agreement 📜](terms-and-conditions/user-agreement.md)
-
