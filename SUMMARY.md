@@ -2,7 +2,7 @@
 
 * [简介 ❤️](README.md)
 * [常见问题 📖](faqs.md)
-* [如何购买](ru-he-gou-mai.md)
+* [如何购买](how-to-buy.md)
 
 ## DKEY 银行 <a href="#dkey-bank" id="dkey-bank"></a>
 
