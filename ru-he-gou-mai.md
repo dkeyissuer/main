@@ -8,7 +8,7 @@ description: 您可以通过不同的管道购买 DKEY加密钥匙。
 
 **ProBit Global 交易所**
 
-账户注册链接：https://www.probit.com/r/94648724
+账户注册链接：[https://www.probit.com/r/94648724](https://www.probit.com/r/94648724)
 
 {% file src=".gitbook/assets/ProBit Global 教程.pdf" %}
 
