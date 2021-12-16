@@ -6,7 +6,7 @@ description: You may buy DKEY through different channels.
 
 ## Buy via Exchange
 
-**Probit Global Exchange**
+**ProBit Global Exchange**
 
 Account Registration Link: [https://www.probit.com/r/94648724](https://www.probit.com/r/94648724)
 
