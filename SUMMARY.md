@@ -2,6 +2,7 @@
 
 * [Introduction ❤️](README.md)
 * [FAQs 📖](faqs.md)
+* [How To Buy](how-to-buy.md)
 
 ## DKEY Bank
 
