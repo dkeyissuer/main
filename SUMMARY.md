@@ -26,3 +26,7 @@
 ## Terms & Conditions
 
 * [User Agreement 📜](terms-and-conditions/user-agreement.md)
+
+## CONTACT US
+
+* [Social Media](contact-us/social-media.md)
