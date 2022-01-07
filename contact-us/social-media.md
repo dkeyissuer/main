@@ -16,3 +16,7 @@ Telegram Channel: [https://t.me/dkeybank](https://t.me/dkeybank)
 
 Telegram Group: [https://t.me/joinchat/hHIutaeaNfw0NWE1](https://t.me/joinchat/hHIutaeaNfw0NWE1)
 
+
+
+For more information, please contact info@dkey.io&#x20;
+
