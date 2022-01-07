@@ -16,3 +16,7 @@ Medium：[https://dkeybank.medium.com/](https://dkeybank.medium.com)
 
 電報群組：[https://t.me/joinchat/hHIutaeaNfw0NWE1 ](https://t.me/joinchat/hHIutaeaNfw0NWE1)
 
+
+
+欲了解更多信息，請聯繫 info@dkey.io
+
