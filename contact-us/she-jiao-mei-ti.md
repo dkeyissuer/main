@@ -1,8 +1,8 @@
 ---
-description: 在社交媒體上關注我們
+description: 连接、關注并与交谈我們
 ---
 
-# 社交媒體
+# 社交媒體 📱
 
 臉書：[https://www.facebook.com/dkeybank/](https://www.facebook.com/dkeybank/)
 
