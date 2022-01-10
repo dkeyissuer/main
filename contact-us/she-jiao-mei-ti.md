@@ -2,7 +2,7 @@
 description: 在社交媒体上关注我们
 ---
 
-# 社交媒体
+# 社交媒体 📱
 
 脸书：[https://www.facebook.com/dkeybank/](https://www.facebook.com/dkeybank/)
 
@@ -12,7 +12,7 @@ YouTube频道：[https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg](https
 
 Medium：[https://dkeybank.medium.com/](https://dkeybank.medium.com)
 
-Reddit: [https://www.reddit.com/r/dkeybank/](https://www.reddit.com/r/dkeybank/)
+红迪：[https://www.reddit.com/r/dkeybank/](https://www.reddit.com/r/dkeybank/)
 
 电报频道：[https://t.me/dkeybank](https://t.me/dkeybank)
 
