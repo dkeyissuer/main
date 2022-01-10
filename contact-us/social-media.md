@@ -1,5 +1,5 @@
 ---
-description: Always follow us on social media!
+description: Connect, follow and have a conversation with us
 ---
 
 # Social Media 📱
