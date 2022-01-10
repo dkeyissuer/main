@@ -1,8 +1,8 @@
 ---
-description: Follow us on social media
+description: Always follow us on social media!
 ---
 
-# Social Media
+# Social Media 📱
 
 Facebook: [https://www.facebook.com/dkeybank/](https://www.facebook.com/dkeybank/)
 

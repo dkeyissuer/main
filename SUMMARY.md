@@ -29,4 +29,4 @@
 
 ## CONTACT US
 
-* [Social Media 🔔](contact-us/social-media.md)
+* [Social Media 📱](contact-us/social-media.md)
