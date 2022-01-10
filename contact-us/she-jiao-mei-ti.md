@@ -12,6 +12,8 @@ YouTube频道：[https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg](https
 
 Medium：[https://dkeybank.medium.com/](https://dkeybank.medium.com)
 
+Reddit: [https://www.reddit.com/r/dkeybank/](https://www.reddit.com/r/dkeybank/)
+
 电报频道：[https://t.me/dkeybank](https://t.me/dkeybank)
 
 电报群组：[https://t.me/joinchat/hHIutaeaNfw0NWE1](https://t.me/joinchat/hHIutaeaNfw0NWE1)
