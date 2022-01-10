@@ -25,8 +25,8 @@
 
 ## 條款和條件 <a href="#terms-conditions" id="terms-conditions"></a>
 
-* [DKEY銀行用戶協議](terms-conditions/user-agreement.md)
+* [DKEY銀行用戶協議 📜](terms-conditions/user-agreement.md)
 
 ## 聯繫我們 <a href="#contact-us" id="contact-us"></a>
 
-* [社交媒體 📱](contact-us/social-media.md)
+* [社交媒體 📱](contact-us/she-jiao-mei-ti.md)
