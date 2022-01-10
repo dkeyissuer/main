@@ -31,4 +31,4 @@
 
 ## 联系我们 <a href="#contact-us" id="contact-us"></a>
 
-* [社交媒体 📱](contact-us/she-jiao-mei-ti.md)
+* [社交媒体 📱](contact-us/social-media.md)
