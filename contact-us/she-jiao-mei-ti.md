@@ -12,6 +12,8 @@ YouTube頻道：[https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg](https
 
 Medium：[https://dkeybank.medium.com/](https://dkeybank.medium.com)
 
+紅迪：[https://www.reddit.com/r/dkeybank/](https://www.reddit.com/r/dkeybank/)
+
 電報頻道：[https://t.me/dkeybank ](https://t.me/dkeybank)
 
 電報群組：[https://t.me/joinchat/hHIutaeaNfw0NWE1 ](https://t.me/joinchat/hHIutaeaNfw0NWE1)
