@@ -1,5 +1,5 @@
 ---
-description: 在社交媒体上关注我们
+description: 连接、关注并与我们交谈
 ---
 
 # 社交媒体 📱
