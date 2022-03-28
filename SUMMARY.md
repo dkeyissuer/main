@@ -1,8 +1,8 @@
 # Table of contents
 
-* [🔑 Introduction ❤️](README.md)
-* [❓ FAQs](faqs.md)
-* [🛒 How to Buy](how-to-buy.md)
+* [🔑 Overview](README.md)
+* [🗺 Roadmap](roadmap.md)
+* [❓ FAQ](faqs.md)
 
 ## DKEY Bank
 
@@ -11,14 +11,11 @@
 * [\* Asset Tokenization](dkey-bank/asset-tokenization.md)
 * [⚙ DKEY Bank Vaults](dkey-bank/swap-vault.md)
 
-## DKEY Token
+## $DKEY <a href="#dkey-token" id="dkey-token"></a>
 
 * [📊 Tokenomics](dkey-token/the-token.md)
 * [💰 Distribution & Allocation](dkey-token/token-usage.md)
-
-## Milestone
-
-* [🗺 Roadmap](milestone/roadmap.md)
+* [🛒 How to Buy $DKEY](dkey-token/how-to-buy-usddkey.md)
 
 ## Terms & Conditions
 
