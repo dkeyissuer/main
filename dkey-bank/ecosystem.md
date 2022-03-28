@@ -4,7 +4,7 @@ description: >-
   crypto finances. The services DKEY Bank offers is knowns as “Vault”.
 ---
 
-# Ecosystem 🧬
+# 🧬 Ecosystem
 
 ### The Ecosystem :deciduous\_tree:&#x20;
 

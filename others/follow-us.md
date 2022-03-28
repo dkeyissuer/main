@@ -2,11 +2,11 @@
 description: Connect, follow and have a conversation with us
 ---
 
-# Social Media 📱
-
-Facebook: [https://www.facebook.com/dkeybank/](https://www.facebook.com/dkeybank/)
+# 💻 Follow Us
 
 Twitter: [https://twitter.com/DKEY\_Horizon](https://twitter.com/DKEY\_Horizon)
+
+Facebook: [https://www.facebook.com/dkeybank/](https://www.facebook.com/dkeybank/)
 
 YouTube Channel: [https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg](https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg)
 
@@ -21,4 +21,6 @@ Telegram Group: [https://t.me/joinchat/hHIutaeaNfw0NWE1](https://t.me/joinchat/h
 
 
 For more information, please contact info@dkey.io&#x20;
+
+
 

@@ -4,7 +4,7 @@ description: >-
   Bank's Ecosystem and the inner working of the DKEY Token.
 ---
 
-# Introduction ❤️
+# 🔑 Introduction ❤️
 
 ### What is ![](.gitbook/assets/emoji.png) DKEY Bank?&#x20;
 
@@ -70,8 +70,8 @@ Users can exchange a variety of cryptocurrencies at competitive prices and start
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="bank-vaults/swap-vault.md" %}
-[swap-vault.md](bank-vaults/swap-vault.md)
+{% content-ref url="dkey-bank/swap-vault.md" %}
+[swap-vault.md](dkey-bank/swap-vault.md)
 {% endcontent-ref %}
 
 

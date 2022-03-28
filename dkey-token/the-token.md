@@ -2,7 +2,7 @@
 description: Specification details of DKEY Token
 ---
 
-# Tokenomics 🪙
+# 📊 Tokenomics
 
 ### DKEY Token ![](../.gitbook/assets/emoji.png)&#x20;
 

@@ -2,7 +2,7 @@
 description: The distribution of DKEY Token & Usage of Allocation.
 ---
 
-# Distribution & Allocation ⚖️
+# 💰 Distribution & Allocation
 
 ### Distribution Chart  :bar\_chart:&#x20;
 
