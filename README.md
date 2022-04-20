@@ -1,9 +1,3 @@
----
-description: >-
-  Welcome to DKEY Bank, you will find all relevant information regarding DKEY
-  Bank's Ecosystem and the inner working of the DKEY Token.
----
-
 # 🔑 Overview
 
 ### What is <img src=".gitbook/assets/emoji.png" alt="" data-size="line"> DKEY Bank?&#x20;
@@ -13,10 +7,6 @@ DKEY Bank is an ecosystem that empowers users to be in control of their finances
 ### What is the purpose of DKEY Bank? :thinking:&#x20;
 
 DKEY Bank is fundamental to solve the problem that users faced in the crypto space. Currently, there is no clear guidance on the different type of cryptocurrency financing. The lack of knowledge can cause confusion and resistance. DKEY Bank’s ecosystem is a combination of popular crypto financing services that offer the user passive income that is informative with clear instructions.
-
-{% content-ref url="dkey-bank/ecosystem.md" %}
-[ecosystem.md](dkey-bank/ecosystem.md)
-{% endcontent-ref %}
 
 ### **Decentralized Finance** :globe\_with\_meridians:&#x20;
 
@@ -28,24 +18,6 @@ Currently, almost every financial service available to the market is run by bank
 
 
 Then comes the new contender to the old banking system, which is Cryptocurrencies and Decentralized Finance (De-Fi). The rise of decentralized technology gives new hopes and arguably the best alternative to the old banking system, which is now proven to change the future of the finance industry. However, decentralized finance services are still getting hiccups every now and then. Reliability is still a questionable problem faced by many of the users. The world of decentralization implies uncertainty at times, where the technology has yet to proven long term stability. As for now, users can buy and sell cryptocurrencies and investment. But that about it, peer-to-peer lending and asset tokenization have yet to catch mainstream adoption. There is still a barrier between traditional assets and cryptocurrencies that needs to be solved. Imagine the endless possibility of what cryptocurrencies can do, if there was no barrier between the two worlds.
-
-{% tabs %}
-{% tab title="Non-Friendly" %}
-for newcomers to cross over barriers between cryptocurrencies and fiat currencies. Buying and selling cryptocurrencies is still a hassle to deal with.
-{% endtab %}
-
-{% tab title="Lack of Knowledge" %}
-Decentralized finance (DeFi) space is extremely fragmented and difficult to navigate. Information is dispersed among unconnected products and services. The lack of knowledge is an issue that keeps users away.
-{% endtab %}
-
-{% tab title="Confusing" %}
-Users and liquidity providers often face challenges finding the right information and the right protocols for their needs.
-{% endtab %}
-
-{% tab title="High Cost and Entry Capital  " %}
-High transaction fee on blockchain and potentially more when invoking a smart contract, users would need to wait several months just to recoup their transaction fee. This isn’t a major problem for those earning several hundred or thousands of dollars in yields per year, but for those earning more modest sums, the transaction fees can be significant, making it difficult to withdraw any accrued gains.
-{% endtab %}
-{% endtabs %}
 
 ### Solutions :bulb:&#x20;
 
