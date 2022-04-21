@@ -24,5 +24,5 @@
 
 ## OTHERS
 
-* [❓ FAQ](others/faqs.md)
+* [❓ FAQ](faqs.md)
 * [💻 Follow Us](others/follow-us.md)
