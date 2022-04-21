@@ -3,8 +3,7 @@
 * [🔑 Overview](README.md)
   * [🏆 Achievements](roadmap/master.md)
   * [🗺 Roadmap](roadmap/master-1.md)
-  * [Founding Team](roadmap/founding-team.md)
-* [❓ FAQ](faqs.md)
+  * [👨💻 Founding Team](roadmap/founding-team.md)
 
 ## DKEY Bank
 
@@ -25,4 +24,5 @@
 
 ## OTHERS
 
+* [❓ FAQ](others/faqs.md)
 * [💻 Follow Us](others/follow-us.md)
