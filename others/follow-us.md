@@ -12,7 +12,7 @@ YouTube Channel: [https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg](http
 
 
 
-Medium: [https://dkeybank.medium.com/](https://dkeybank.medium.com)
+Medium: [https://dkeybank.medium.com/](https://dkeybank.medium.com/)
 
 Reddit: [https://www.reddit.com/r/dkeybank/](https://www.reddit.com/r/dkeybank/)
 

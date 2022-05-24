@@ -1,8 +1,6 @@
-# 🔑 Overview
+# 🔑 DKEY Project
 
-### **DKEY Project** <img src=".gitbook/assets/emoji.png" alt="" data-size="line">&#x20;
-
-DKEY is an ecosystem that harnesses the potential of Decentralised Finance (DeFi) and blockchain technologies, empowering users to take their finances into control by creating crypto-based passive income. The ecosystem is developed to deliver user-friendly financial controls and assets management.
+DKEY is an ecosystem that harnesses the potential of Decentralised Finance (DeFi) and blockchain technologies, empowering users to take their finances into control by creating crypto-based passive income. The ecosystem is developed to deliver user-friendly financial controls and asset management.
 
 
 

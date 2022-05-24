@@ -2,7 +2,7 @@
 description: You may buy DKEY through different channels.
 ---
 
-# 🛒 How to Buy
+# 🛒 How to Buy $DKEY
 
 ## Buy via Exchange
 
@@ -10,7 +10,7 @@ description: You may buy DKEY through different channels.
 
 Account Registration Link: [https://www.probit.com/r/94648724](https://www.probit.com/r/94648724)
 
-{% file src=".gitbook/assets/ProBit Global Tutorial_20211217.pdf" %}
+{% file src="../.gitbook/assets/ProBit Global Tutorial_20211217.pdf" %}
 
 
 
@@ -18,11 +18,11 @@ Account Registration Link: [https://www.probit.com/r/94648724](https://www.probi
 
 **PancakeSwap**
 
-Page Link: [https://pancakeswap.finance/](https://pancakeswap.finance)
+Page Link: [https://pancakeswap.finance/](https://pancakeswap.finance/)
 
 DKEY Token Address: 0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
 
-{% file src=".gitbook/assets/PancakeSwap Tutorial_20211216.pdf" %}
+{% file src="../.gitbook/assets/PancakeSwap Tutorial_20211216.pdf" %}
 
 
 
@@ -32,7 +32,7 @@ DKEY Token Address: 0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
 
 DKEY Token Address: 0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
 
-{% file src=".gitbook/assets/TokenPocket Wallet Tutorial_20211216.pdf" %}
+{% file src="../.gitbook/assets/TokenPocket Wallet Tutorial_20211216.pdf" %}
 
 ****
 

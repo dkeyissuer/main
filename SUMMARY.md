@@ -1,16 +1,19 @@
 # Table of contents
 
-* [🔑 Overview](README.md)
-  * [🏆 Achievements](roadmap/master.md)
-  * [🗺 Roadmap](roadmap/master-1.md)
-  * [👨💻 Founding Team](roadmap/founding-team.md)
+## Overview
 
-## DKEY Bank
+* [🔑 DKEY Project](README.md)
+* [🏆 Achievements](overview/master.md)
+* [🗺 Roadmap](overview/master-1.md)
+* [👨💻 Founding Team](overview/founding-team.md)
 
-* [🧬 Ecosystem](dkey-bank/ecosystem.md)
-* [🎁 Distributions of Rewards](dkey-bank/advantage.md)
-* [\* Asset Tokenization](dkey-bank/asset-tokenization.md)
-* [⚙ DKEY Bank Vaults](dkey-bank/swap-vault.md)
+## Solutions
+
+* [Page 1](solutions/page-1.md)
+* [🧬 Ecosystem](solutions/ecosystem.md)
+* [🎁 Distributions of Rewards](solutions/advantage.md)
+* [\* Asset Tokenization](solutions/asset-tokenization.md)
+* [⚙ DKEY Bank Vaults](solutions/swap-vault.md)
 
 ## $DKEY <a href="#dkey-token" id="dkey-token"></a>
 
@@ -18,11 +21,11 @@
 * [💰 Distribution & Allocation](dkey-token/token-usage.md)
 * [🛒 How to Buy $DKEY](dkey-token/how-to-buy-usddkey.md)
 
-## Terms & Conditions
+## Policies & Agreements <a href="#policies_agreements" id="policies_agreements"></a>
 
-* [📜 User Agreement](terms-and-conditions/user-agreement.md)
+* [📜 User Agreement](policies\_agreements/user-agreement.md)
 
 ## OTHERS
 
-* [❓ FAQ](faqs.md)
 * [💻 Follow Us](others/follow-us.md)
+* [❓ FAQ](faqs.md)
