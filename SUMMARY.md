@@ -9,7 +9,7 @@
 
 ## Solutions
 
-* [💳 DKEY Horizon](solutions/page-1.md)
+* [DKEY Horizon](solutions/page-1.md)
 * [🏦 DKEY Vault](solutions/dkey-vault.md)
 * [🙋♂ Crypto User Journey](solutions/crypto-user-journey.md)
 * [⛓ Blockchain Leverage](solutions/blockchain-leverage.md)

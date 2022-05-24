@@ -4,7 +4,7 @@ Blockchain technology creates a huge disruption to traditional business processe
 
 
 
-Crypto Adoption + Blockchain Leverage = Web 3.0
+#### Crypto Adoption + Blockchain Leverage = Web 3.0
 
 
 

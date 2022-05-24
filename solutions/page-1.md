@@ -1,4 +1,4 @@
-# 💳 DKEY Horizon
+# DKEY Horizon
 
 DKEY has come up with solutions to serve different categories of users by utilising financial products on both crypto and financial markets.
 
@@ -19,4 +19,6 @@ We offer a range of E2P services for all individual users. The “EARN” part i
 
 
 ![](../.gitbook/assets/Earn-to-Pay\_services.JPG)
+
+
 
