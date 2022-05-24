@@ -10,7 +10,7 @@
 ## Solutions
 
 * [💳 DKEY Horizon](solutions/page-1.md)
-* [DKEY Vault](solutions/dkey-vault.md)
+* [🏦 DKEY Vault](solutions/dkey-vault.md)
 * [🧬 Ecosystem](solutions/ecosystem.md)
 * [🎁 Distributions of Rewards](solutions/advantage.md)
 * [\* Asset Tokenization](solutions/asset-tokenization.md)
