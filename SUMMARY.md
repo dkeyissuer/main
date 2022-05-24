@@ -13,6 +13,7 @@
 * [🏦 DKEY Vault](solutions/dkey-vault.md)
 * [🙋♂ Crypto User Journey](solutions/crypto-user-journey.md)
 * [⛓ Blockchain Leverage](solutions/blockchain-leverage.md)
+* [DKEY Business](solutions/dkey-business.md)
 * [🧬 Ecosystem](solutions/ecosystem.md)
 * [🎁 Distributions of Rewards](solutions/advantage.md)
 * [\* Asset Tokenization](solutions/asset-tokenization.md)
