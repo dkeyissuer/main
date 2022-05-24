@@ -1,4 +1,4 @@
-# DKEY Horizon
+# ✅ DKEY Horizon
 
 DKEY has come up with solutions to serve different categories of users by utilising financial products on both crypto and financial markets.
 

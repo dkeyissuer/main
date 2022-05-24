@@ -9,11 +9,11 @@
 
 ## Solutions
 
-* [DKEY Horizon](solutions/page-1.md)
+* [✅ DKEY Horizon](solutions/page-1.md)
 * [🏦 DKEY Vault](solutions/dkey-vault.md)
 * [🙋♂ Crypto User Journey](solutions/crypto-user-journey.md)
 * [⛓ Blockchain Leverage](solutions/blockchain-leverage.md)
-* [DKEY Business](solutions/dkey-business.md)
+* [✅ DKEY Business](solutions/dkey-business.md)
 * [💻 Services Offered](solutions/services-offered.md)
 * [👩💻 Key Clients](solutions/key-clients.md)
 
@@ -25,15 +25,15 @@
 * [💲 Tokenomic Model](dkey-token/tokenomic-model.md)
 * [🛒 How to Buy $DKEY](dkey-token/how-to-buy-usddkey.md)
 
+## Alliance
+
+* [🤝 Strategic Partnerships](alliance/strategic-partnerships.md)
+
 ## Policies & Agreements <a href="#policies-n-agreements" id="policies-n-agreements"></a>
 
-* [📜 User Agreement](policies-n-agreements/user-agreement.md)
+* [📜 User Agreement](policies\_agreements/user-agreement.md)
 
 ## OTHERS
 
 * [📱 Follow Us](others/follow-us.md)
 * [❓ FAQ](faqs.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
