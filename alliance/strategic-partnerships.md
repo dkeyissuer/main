@@ -60,3 +60,7 @@ Users can mint NFTs from these marketplaces:&#x20;
 
 
 
+![](../.gitbook/assets/strategy-partner.png)
+
+
+
