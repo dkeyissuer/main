@@ -14,6 +14,8 @@
 * [🙋♂ Crypto User Journey](solutions/crypto-user-journey.md)
 * [⛓ Blockchain Leverage](solutions/blockchain-leverage.md)
 * [DKEY Business](solutions/dkey-business.md)
+* [💻 Services Offered](solutions/services-offered.md)
+* [👩💻 Key Clients](solutions/key-clients.md)
 * [🧬 Ecosystem](solutions/ecosystem.md)
 * [🎁 Distributions of Rewards](solutions/advantage.md)
 * [\* Asset Tokenization](solutions/asset-tokenization.md)
@@ -31,5 +33,5 @@
 
 ## OTHERS
 
-* [💻 Follow Us](others/follow-us.md)
+* [📱 Follow Us](others/follow-us.md)
 * [❓ FAQ](faqs.md)

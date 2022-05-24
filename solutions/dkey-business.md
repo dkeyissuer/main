@@ -4,13 +4,27 @@ Blockchain technology creates a huge disruption to traditional business processe
 
 
 
-_**Crypto Adoption + Blockchain Leverage = Web 3.0**_
+**Crypto Adoption + Blockchain Leverage = Web 3.0**
 
 
 
 ### Core Concept ✅&#x20;
 
 DKEY Business remains at the forefront of blockchain to lead traditional businesses through digital transformation. DKEY Business is a digital asset custody platform developed with the highest level of security to manage digital assets in an efficient and transparent way.
+
+
+
+| **Security**                   | Ensure enterprise-grade secure storage of digital assets         |
+| ------------------------------ | ---------------------------------------------------------------- |
+| **Multisig Wallet**            | Requires two or more private keys to sign and send a transaction |
+| **Transparency, Auditability** | Enable transparency and auditability of investments              |
+| **Segregation, Independence**  | Guaranteed independence and neutrality for investors             |
+
+
+
+#### Safekeeping of Digital Assets&#x20;
+
+Businesses can integrate digital assets into their finances flexibly, responsively, securely via DKEY Business powered by IBM FIPS 140-2 Level 4 certified Hardware Security Module. Moreover, it also delivers business operational excellence by achieving cybersecurity and financial crime compliance.
 
 
 
