@@ -1,14 +1,8 @@
----
-description: The distribution of DKEY Token & Usage of Allocation.
----
+# 💰 Token Distribution
 
-# 💰 Distribution & Allocation
+### $DKEY Distribution Chart &#x20;
 
-### Distribution Chart  :bar\_chart:&#x20;
-
-![](<../.gitbook/assets/DKEY-distribution-chart (1).JPG>)
-
-
+![](../.gitbook/assets/DKEY-distribution-chart.JPG)
 
 ### $DKEY Allocation Table
 

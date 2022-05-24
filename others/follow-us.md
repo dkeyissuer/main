@@ -1,4 +1,4 @@
-# 💻 Follow Us
+# 📱 Follow Us
 
 Connect, follow and have a conversation with us
 
