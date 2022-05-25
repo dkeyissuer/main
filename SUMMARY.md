@@ -1,7 +1,6 @@
 # Table of contents
 
 * [简介 ❤️](README.md)
-* [常见问题 📖](faqs.md)
 * [如何购买](how-to-buy.md)
 
 ## 概述 <a href="#overview" id="overview"></a>
@@ -33,4 +32,5 @@
 
 ## 联系我们 <a href="#contact-us" id="contact-us"></a>
 
-* [社交媒体 📱](contact-us/social-media.md)
+* [📱 社交媒体](contact-us/social-media.md)
+* [❓ 常见问题](contact-us/faqs.md)
