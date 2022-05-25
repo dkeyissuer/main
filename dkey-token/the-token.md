@@ -4,7 +4,7 @@ description: DKEY代币的详细摘要
 
 # 金融生态圈
 
-### DKEY 代币 ![](../.gitbook/assets/emoji.png)&#x20;
+### DKEY 代币 <img src="../.gitbook/assets/emoji.png" alt="" data-size="line">&#x20;
 
 DKEY代币是使用币安智能链(BEP-20)上的智能合约创建的，预挖总供应量为1亿枚DKEY加密钥匙。DKEY加密钥匙是协议上的结算代币,用于计算单位及分配收益。当DKEY加密钥匙作为质押时，它们会合成单位并与DKEY银行生态生态的需求挂钩。币安智能链为超高速交易速度和跨链兼容性进行了优化，它增强了作为DKEY银行结算单元的DKEY加密钥匙(代币)的可扩展性和可靠性。此外，DKEY依赖并运行于币安，参与及共享全球最大的加密货币流动性。
 

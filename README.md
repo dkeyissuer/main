@@ -4,7 +4,7 @@ description: 欢迎来到DKEY银行，在此您将找到关于DKEY银行金融�
 
 # 简介 ❤️
 
-### 什么是 ![](.gitbook/assets/emoji.png) DKEY 银行?&#x20;
+### 什么是 <img src=".gitbook/assets/emoji.png" alt="" data-size="line"> DKEY 银行?&#x20;
 
 DKEY 银行是一种金融生态, 创造基于加密的被动收益及使用去中心化金融技术的潜力，使用户能够有效地管理自己的财务。
 

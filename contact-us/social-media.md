@@ -10,7 +10,7 @@ description: 连接、关注并与我们交谈
 
 YouTube频道：[https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg](https://www.youtube.com/channel/UC6AKtDkKCuSNg25jC7yUKkg)
 
-Medium：[https://dkeybank.medium.com/](https://dkeybank.medium.com)
+Medium：[https://dkeybank.medium.com/](https://dkeybank.medium.com/)
 
 红迪：[https://www.reddit.com/r/dkeybank/](https://www.reddit.com/r/dkeybank/)
 

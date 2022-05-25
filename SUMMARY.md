@@ -4,6 +4,10 @@
 * [常见问题 📖](faqs.md)
 * [如何购买](how-to-buy.md)
 
+## 概述 <a href="#overview" id="overview"></a>
+
+* [DKEY 项目](overview/dkey-xiang-mu.md)
+
 ## DKEY 银行 <a href="#dkey-bank" id="dkey-bank"></a>
 
 * [金融生态 🧬](dkey-bank/ecosystem.md)
@@ -25,9 +29,7 @@
 
 ## 条款和条件 <a href="#terms-conditions" id="terms-conditions"></a>
 
-***
-
-* [DKEY银行用户协议 📜](user-agreement.md)
+* [DKEY银行用户协议 📜](terms-conditions/user-agreement.md)
 
 ## 联系我们 <a href="#contact-us" id="contact-us"></a>
 

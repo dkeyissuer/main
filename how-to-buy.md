@@ -18,7 +18,7 @@ description: 您可以通过不同的管道购买 DKEY加密钥匙。
 
 **PancakeSwap 薄饼钱包**
 
-页面链接：[https://pancakeswap.finance/](https://pancakeswap.finance)
+页面链接：[https://pancakeswap.finance/](https://pancakeswap.finance/)
 
 DKEY 代币地址：0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
 
