@@ -19,8 +19,8 @@
 
 ## $DKEY <a href="#dkey-token" id="dkey-token"></a>
 
-* [📊 Token Metrics](dkey-token/the-token.md)
-* [💰 Token Distribution](dkey-token/token-usage.md)
+* [💰 Token Metrics](dkey-token/the-token.md)
+* [📊 Token Distribution](dkey-token/token-usage.md)
 * [🪙 Token Utility](dkey-token/token-utility.md)
 * [💲 Tokenomic Model](dkey-token/tokenomic-model.md)
 * [🛒 How to Buy $DKEY](dkey-token/how-to-buy-usddkey.md)
