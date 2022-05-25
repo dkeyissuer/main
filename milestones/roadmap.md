@@ -1,138 +1,56 @@
-# 发展蓝图 📝
+# 🗺 发展蓝图
 
-## &#x20;2021 第一季度: ( :white\_check\_mark: 已完成)
 
-### **种子轮**&#x20;
 
-:white\_check\_mark: $1,320,000 代币锁定期为2年
+### 2022 年第 2 季度
 
-### **DKEY加密钥匙发展**&#x20;
+| DKEY 商务入门引导 | <ul class="contains-task-list"><li>引入 DKEY 商务提供 B2B 业务解决方案</li></ul> |
+| ----------- | -------------------------------------------------------------------- |
+| 资产代币化       | <ul class="contains-task-list"><li>将资产估值和代币化纳入 DKEY 金融生态系统</li></ul> |
 
-:white\_check\_mark: 币安流动性信托账户&#x20;
 
-:white\_check\_mark: 币安智能链合约&#x20;
 
-:white\_check\_mark: 官网及白皮书
+### 2022 年第 3 季度
 
+| 加密启动板 | <ul class="contains-task-list"><li>在一级交易平台启动板上启动 IEO</li></ul> |
+| ----- | -------------------------------------------------------------- |
 
 
-## :bar\_chart: 2021 第二季度：( :white\_check\_mark: 已完成)
 
-### **私募正式上线**&#x20;
+### 2022 年第 4 季度
 
-:white\_check\_mark: 私募价1($0.30) 私募轮2 ($0.50) 完成募资
+| DKEY Horizon 移动应用上线 | <ul class="contains-task-list"><li>推出 MVP 版 DKEY Horizon 移动应用 </li><li>开发借贷金库和挖矿金库 </li><li>在交易金库和质押金库中启用跨链加密资产 </li><li>将 Wallet Direct 功能集成在 DKEY Horizon 移动应用 </li></ul> |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DKEY 信用卡            | <ul class="contains-task-list"><li>提供加密货币到法币提款服务 </li><li>启用非接触式支付 </li><li>提供消费返现 </li></ul>                                                                               |
+| 忠诚计划                | <ul class="contains-task-list"><li>根据 $DKEY 代币持有量分配奖励</li></ul>                                                                                                             |
 
-:white\_check\_mark: 代币锁定期为12个月
 
-:white\_check\_mark: 总共筹集了$800,000
 
-### **发布上线DKEY银行应用程序**
+### 2023 年第 1 季度
 
-:white\_check\_mark: DKEY银行私募轮APP (测试版)&#x20;
+| 非同质化代币与市场  | <ul class="contains-task-list"><li>在 DKEY NFT 市场发行实用型非同质化代币</li></ul> |
+| ---------- | --------------------------------------------------------------------- |
 
-:white\_check\_mark: 交易&质押金库上线!!
 
-### 交易所上市
 
-:white\_check\_mark: 在Probit Global中上币
+### 2023 年第 2 季度
 
-:white\_check\_mark: 全球20强和韩国监管加密货币交易所
+| 元宇宙社交化金融  | <ul class="contains-task-list"><li>具有社交排名功能的元宇宙社交化金融</li></ul> |
+| --------- | -------------------------------------------------------------- |
 
-:white\_check\_mark: 上市价格$1.00
 
-### **DKEY银行概念式办公室启动**&#x20;
 
-:white\_check\_mark: 试营业开幕活动\
-&#x20;        延迟至2021第三季度
+### 2023 年第 3 季度
 
-## :bar\_chart: 2021 第三季度：
+| DKEY 商家  | <ul class="contains-task-list"><li>与商家合作拓展 B2C 业务解决方案</li></ul> |
+| -------- | --------------------------------------------------------------- |
 
-### 国际市场
 
-:white\_check\_mark: 私募价从$0.80 - $5.00
 
-:white\_check\_mark: 代币锁定期为12个月
+### 2023 年第 4 季度
 
-:white\_check\_mark: 币安链质押资产评估 **(总锁仓量)**
+| 金融伙伴关系 | <ul class="contains-task-list"><li>与金融伙伴进行合作 </li><li>推出金融产品</li></ul> |
+| ------ | ---------------------------------------------------------------------- |
 
-### 超级节点招募
 
-### **超级节点招募**&#x20;
 
-:white\_check\_mark: **** 招募区域超级节点\
-&#x20;       (马来西亚、新加坡、中国和韩国)
-
-:white\_check\_mark: 区域营销活动
-
-:white\_check\_mark: DKEY概念办公室推出
-
-### 交易所上市
-
-:white\_check\_mark: 上市超节点国家级监管交易所&#x20;
-
-## :bar\_chart: 2021 第四季度 :
-
-### 国际市场
-
-:white\_check\_mark: 私募轮价格从$5.00 - $ 15.00
-
-### Coinmarketcap
-
-:white\_check\_mark: 多家交易所上市价格为$5.00
-
-:white\_check\_mark: 完全流动至自由交易市场
-
-:white\_check\_mark: 位列全球前300强加密货币
-
-:white\_check\_mark: 市值达到 $5亿
-
-### DKEY 银行APP金融生态系统开发
-
-:white\_check\_mark: 多重加密资产储蓄的质押金库\
-&#x20;        启用投票和治理功能
-
-## :bar\_chart: 2022 第一季度
-
-### **DKEY银行金融生态系统超级APP**
-
-****:white\_check\_mark: **** 挖矿金库正式**上线！！**
-
-****:white\_check\_mark: **** 启用彩票和交易功能
-
-### 币安
-
-:white\_check\_mark: 上市价格为$15.00
-
-:white\_check\_mark: 参与币安的Launchpad & Launch Pool
-
-### Coinmarketcap
-
-:white\_check\_mark: 位列全球200强加密货币
-
-:white\_check\_mark: 市值达到 $10亿
-
-## :bar\_chart: 2022 第二季度
-
-### DKEY银行APP公众版本&#x20;
-
-:white\_check\_mark: DKEY银行APP整合成 Wallet Direct 功能
-
-:white\_check\_mark: 增强4大金库关键功能
-
-:white\_check\_mark: 跨链加密资产交易金库
-
-:white\_check\_mark: 跨链加密资产质押金库
-
-### 空投
-
-:white\_check\_mark: 空投予私募投资者和社区
-
-## :bar\_chart: 2022 第三季度
-
-### **资产代币化**
-
-****:white\_check\_mark: **** 将资产估值和代币化纳入DKEY金融生态系统
-
-### **非同质化代币**
-
-:white\_check\_mark: **** 慈善非同质化代币(NFTs)的功能支持捐赠和社会可持续发展计划\
