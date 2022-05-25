@@ -1,11 +1,11 @@
 # Table of contents
 
 * [简介 ❤️](README.md)
-* [如何购买](how-to-buy.md)
 
 ## 概述 <a href="#overview" id="overview"></a>
 
-* [DKEY 项目](overview/dkey-xiang-mu.md)
+* [🔑 DKEY 项目](overview/dkey-xiang-mu.md)
+* [发展蓝图 📝](overview/roadmap.md)
 
 ## DKEY 银行 <a href="#dkey-bank" id="dkey-bank"></a>
 
@@ -21,16 +21,13 @@
 
 * [金融生态圈](dkey-token/the-token.md)
 * [分布与分配⚖️](dkey-token/token-usage.md)
-
-## 里程碑 <a href="#milestones" id="milestones"></a>
-
-* [发展蓝图 📝](milestones/roadmap.md)
+* [🛒 如何购买 $DKEY](dkey-token/how-to-buy.md)
 
 ## 条款和条件 <a href="#terms-conditions" id="terms-conditions"></a>
 
-* [DKEY银行用户协议 📜](terms-conditions/user-agreement.md)
+* [📜 DKEY银行用户协议](terms-conditions/user-agreement.md)
 
 ## 联系我们 <a href="#contact-us" id="contact-us"></a>
 
-* [📱 社交媒体](contact-us/social-media.md)
+* [📱 关注我们](contact-us/social-media.md)
 * [❓ 常见问题](contact-us/faqs.md)
