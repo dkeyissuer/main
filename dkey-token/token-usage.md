@@ -2,11 +2,11 @@
 description: DKEY 代币分发和分配的使用。
 ---
 
-# 分布与分配⚖️
+# 📊 代币分布
 
 ### 分布图  :bar\_chart:&#x20;
 
-![](../.gitbook/assets/chart-cn.png)
+![](broken-reference)
 
 ### **** **种子轮**:seedling:&#x20;
 
