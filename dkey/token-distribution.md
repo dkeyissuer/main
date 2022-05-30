@@ -1,8 +1,10 @@
-# 💰 Token Distribution
+# 📊 Token Distribution
 
 ### $DKEY Distribution Chart &#x20;
 
 ![](../.gitbook/assets/DKEY-distribution-chart.JPG)
+
+
 
 ### $DKEY Allocation Table
 
