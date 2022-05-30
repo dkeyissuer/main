@@ -1,4 +1,4 @@
-# 🏦 DKEY Vault
+# 🏦 DKEY Vaults
 
 DKEY Vault is an all-in-one DeFi hub that provides comprehensive financial management for all users. It has 4 core financial products i.e., Swap Vault, Staking Vault, Lending Vault, and Mining Vault.
 

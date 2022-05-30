@@ -3,14 +3,14 @@
 ## Overview
 
 * [🔑 DKEY Project](README.md)
-* [🏆 Achievements](overview/achievements.md)
-* [🗺 Roadmap](overview/roadmap.md)
+* [🏆 Achievements](overview/master.md)
+* [🗺 Roadmap](overview/master-1.md)
 * [👨💻 Founding Team](overview/founding-team.md)
 
 ## Solutions
 
 * [✅ DKEY Horizon](solutions/page-1.md)
-* [🏦 DKEY Vaults](solutions/dkey-vaults.md)
+* [🏦 DKEY Vaults](solutions/dkey-vault.md)
 * [🙋♂ Crypto User Journey](solutions/crypto-user-journey.md)
 * [⛓ Blockchain Leverage](solutions/blockchain-leverage.md)
 * [✅ DKEY Business](solutions/dkey-business.md)
@@ -19,11 +19,11 @@
 
 ## $DKEY <a href="#dkey" id="dkey"></a>
 
-* [💰 Token Metrics](dkey/token-metrics.md)
-* [📊 Token Distribution](dkey/token-distribution.md)
-* [🪙 Token Utility](dkey/token-utility.md)
-* [💲 Tokenomic Model](dkey/tokenomic-model.md)
-* [🛒 How to Buy $DKEY](dkey/how-to-buy-dkey.md)
+* [🪙 Token Metrics](dkey-token/the-token.md)
+* [📊 Token Distribution](dkey-token/token-usage.md)
+* [💰 Token Utility](dkey-token/token-utility.md)
+* [💲 Tokenomic Model](dkey-token/tokenomic-model.md)
+* [🛒 How to Buy $DKEY](dkey-token/how-to-buy-usddkey.md)
 
 ## Alliance
 

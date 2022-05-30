@@ -1,4 +1,4 @@
-# 💰 Token Metrics
+# 🪙 Token Metrics
 
 $DKEY is a BEP-20 token built on Binance Smart Chain. Since Binance Smart Chain is optimised for ultra-fast transaction speed and cross-chain compatibility, the scalability and reliability of $DKEY will be greatly improved. Besides, $DKEY is the native token of the protocol, used for both staking and governance. When $DKEYs are staked as collateral, they generate synthetic units pegged to the demand of the DKEY ecosystem.
 
