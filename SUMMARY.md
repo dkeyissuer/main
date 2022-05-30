@@ -3,27 +3,27 @@
 ## 概述 <a href="#overview" id="overview"></a>
 
 * [🔑 DKEY 项目](README.md)
-* [🏆 成就](overview/page-3.md)
+* [🏆 成就](overview/achievements.md)
 * [🗺 发展蓝图](milestones/roadmap.md)
-* [👨💻 创始团队](overview/chuang-shi-tuan-dui.md)
+* [👨💻 创始团队](overview/founding-team.md)
 
 ## 解决方案 <a href="#solutions" id="solutions"></a>
 
-* [Page 5](solutions/page-5.md)
-* [金融生态 🧬](solutions/ecosystem.md)
-* [奖金分配 🎁](solutions/advantage.md)
-* [资产代币化 💰](solutions/asset-tokenization.md)
-* [Page 6](solutions/page-6.md)
-* [Page 7](solutions/page-7.md)
-* [Page 8](solutions/page-8.md)
+* [DKEY Horizon](solutions/dkey-horizon.md)
+* [DKEY 金库](solutions/dkey-vaults.md)
+* [加密资产用户之旅](solutions/crypto-user-journey.md)
+* [区块链技术的运用](solutions/blockchain-leverage.md)
+* [DKEY 商务](solutions/dkey-business.md)
+* [提供的服务](solutions/services-offered.md)
+* [主要客户群](solutions/key-clients.md)
 
-## $DKEY <a href="#dkey-token" id="dkey-token"></a>
+## $DKEY <a href="#dkey" id="dkey"></a>
 
-* [金融生态圈](dkey-token/the-token.md)
-* [分布与分配⚖️](dkey-token/token-usage.md)
-* [Page 2](dkey-token/page-2.md)
-* [Page 1](dkey-token/page-1.md)
-* [🛒 如何购买 $DKEY](how-to-buy.md)
+* [代币指标](dkey/token-metrics.md)
+* [代币分布](dkey/token-distribution.md)
+* [代币效用](dkey/token-utility.md)
+* [代币经济模型](dkey/tokenomic-model.md)
+* [🛒 如何购买 $DKEY](dkey/how-to-buy-dkey.md)
 
 ## 联盟 <a href="#alliance" id="alliance"></a>
 
