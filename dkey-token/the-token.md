@@ -10,7 +10,7 @@ $DKEY 是建立在币安智能链上的 BEP-20 代币。由于币安智能链针
 | **代币符号** | DKEY                                                                                                                                                                                             |
 | **代币标准** | BEP-20                                                                                                                                                                                           |
 | **总供应量** | 100,000,000                                                                                                                                                                                      |
-| **智能合约** | <p><a href="https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1">0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1</a><br></p>                                                         |
+| **智能合约** | [0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1](https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1)                                                                               |
 | **审计报告** | Audit Rate Tech [https://auditrate.tech/images/pdf/dkey\_0xF3ED4770E6eFe9168c3f2F50A6D9d0F97a550DF1.pdf](https://auditrate.tech/images/pdf/dkey\_0xF3ED4770E6eFe9168c3f2F50A6D9d0F97a550DF1.pdf) |
 
 
