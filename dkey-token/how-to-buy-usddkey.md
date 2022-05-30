@@ -2,6 +2,8 @@
 
 Users may buy $DKEY through different channels:
 
+
+
 ### Buy via Exchange
 
 #### **ProBit Global Exchange**
@@ -14,11 +16,9 @@ Account Registration Link: [https://www.probit.com/r/94648724](https://www.probi
 
 ### Buy via Decentralized Exchange
 
-#### **PancakeSwap**
+**PancakeSwap** ([https://pancakeswap.finance/info/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1](https://pancakeswap.finance/info/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1))
 
-Page Link: [https://pancakeswap.finance/](https://pancakeswap.finance/)
-
-DKEY Token Address: 0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
+DKEY Token Address: [0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1](https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1)
 
 {% file src="../.gitbook/assets/PancakeSwap Tutorial_20211216.pdf" %}
 
@@ -28,7 +28,7 @@ DKEY Token Address: 0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
 
 #### **TokenPocket Wallet**
 
-DKEY Token Address: 0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
+DKEY Token Address: [0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1](https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1)
 
 {% file src="../.gitbook/assets/TokenPocket Wallet Tutorial_20211216.pdf" %}
 
