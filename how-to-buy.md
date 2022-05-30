@@ -18,7 +18,7 @@
 
 **PancakeSwap 薄饼钱包** （[https://pancakeswap.finance/info/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1](https://pancakeswap.finance/info/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1)）
 
-$DKEY 代币地址：0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
+$DKEY 代币地址：[0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1](https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1)
 
 {% file src=".gitbook/assets/薄饼钱包教程_20211216.pdf" %}
 
@@ -28,7 +28,7 @@ $DKEY 代币地址：0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
 
 **TokenPocket 钱包**&#x20;
 
-DKEY 代币地址：0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1
+DKEY 代币地址：[0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1](https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1)
 
 {% file src=".gitbook/assets/TokenPocket 钱包教程_20211216.pdf" %}
 
