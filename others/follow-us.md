@@ -26,9 +26,9 @@ Telegram Group (ZH): [https://t.me/DKEYBank\_ZH](https://t.me/DKEYBank\_ZH)
 
 
 
-General Enquiries: [info@dkey.io](mailto:info@dkey.io)
+General Enquiries: info@dkey.io
 
-Business Collaboration: [business@dkey.io](mailto:business@dkey.io)
+Business Collaboration: business@dkey.io
 
 
 
