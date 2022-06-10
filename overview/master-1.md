@@ -4,16 +4,15 @@
 
 ### Q2 2022
 
-| DKEY Business Onboarding | <ul class="contains-task-list"><li><input type="checkbox">Introduce DKEY Business to provide B2B business solutions</li></ul>    |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| Asset Tokenization       | <ul class="contains-task-list"><li><input type="checkbox">Embrace asset valuation and tokenization into DKEY ecosystem</li></ul> |
+| DKEY Business Onboarding | <ul class="contains-task-list"><li><input type="checkbox">Introduce DKEY Business to provide B2B business solutions</li></ul> |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 
 
 
 ### Q3 2022
 
-| Crypto Launchpad | <ul class="contains-task-list"><li><input type="checkbox">Launch IEO on first-tier exchange launchpad</li></ul> |
-| ---------------- | --------------------------------------------------------------------------------------------------------------- |
+| Utility NFT and Marketplace | <ul class="contains-task-list"><li><input type="checkbox">Issue utility NFT on DKEY NFT Marketplace</li></ul> |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------- |
 
 
 
@@ -28,8 +27,8 @@
 
 ### Q1 2023
 
-| Utility NFT and Marketplace | <ul class="contains-task-list"><li><input type="checkbox">Issue utility NFT on DKEY NFT Marketplace</li></ul> |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Exchange Launchpad | <ul class="contains-task-list"><li><input type="checkbox">Launch IEO on first-tier exchange launchpad</li></ul> |
+| ------------------ | --------------------------------------------------------------------------------------------------------------- |
 
 
 
@@ -49,8 +48,9 @@
 
 ### Q4 2023
 
-| Financial Partnership | <ul class="contains-task-list"><li><input type="checkbox">Collaborate with financial partners </li><li><input type="checkbox">Launch financial products</li></ul> |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Asset Tokenization | <ul class="contains-task-list"><li>Embrace asset valuation and tokenization into DKEY ecosystem</li></ul>                      |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| Launchpad          | <ul class="contains-task-list"><li>Initiate launchpad</li><li><input type="checkbox">Collaborate with more partners </li></ul> |
 
 
 
