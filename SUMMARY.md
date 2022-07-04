@@ -23,11 +23,15 @@
 * [📊 Token Distribution](dkey-token/token-usage.md)
 * [💰 Token Utility](dkey-token/token-utility.md)
 * [💲 Tokenomic Model](dkey-token/tokenomic-model.md)
-* [🛒 How to Buy $DKEY](dkey-token/how-to-buy-usddkey.md)
 
 ## Alliance
 
 * [🤝 Strategic Partnerships](alliance/strategic-partnerships.md)
+
+## Tutorials
+
+* [🛒 How to Buy $DKEY](tutorials/how-to-buy-dkey.md)
+* [📱 How to Claim Presales Staking Rewards](tutorials/how-to-claim-presales-staking-rewards.md)
 
 ## Policies & Agreements <a href="#policies-n-agreements" id="policies-n-agreements"></a>
 
@@ -35,5 +39,5 @@
 
 ## OTHERS
 
-* [📱 Follow Us](others/follow-us.md)
+* [💬 Follow Us](others/follow-us.md)
 * [❓ FAQ](faqs.md)
