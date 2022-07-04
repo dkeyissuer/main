@@ -31,7 +31,7 @@
 ## Tutorials
 
 * [🛒 How to Buy $DKEY](tutorials/how-to-buy-dkey.md)
-* [📱 How to Claim Presales Staking Rewards](tutorials/how-to-claim-presales-staking-rewards.md)
+* [📄 How to Claim Presales Staking Rewards](tutorials/how-to-claim-presales-staking-rewards.md)
 
 ## Policies & Agreements <a href="#policies-n-agreements" id="policies-n-agreements"></a>
 
