@@ -30,8 +30,8 @@
 
 ## Group 1
 
-* [🛒 如何购买 $DKEY](group-1/how-to-buy-dkey.md)
-* [📋 如何领取预售质押奖励](group-1/ru-he-ling-qu-yu-shou-zhi-ya-jiang-li.md)
+* [🛒 如何购买 $DKEY](how-to-buy.md)
+* [📄 如何领取预售质押奖励](group-1/ru-he-ling-qu-yu-shou-zhi-ya-jiang-li.md)
 
 ## 政策和协议 <a href="#policies-n-agreements" id="policies-n-agreements"></a>
 
