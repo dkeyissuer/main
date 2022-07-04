@@ -23,11 +23,15 @@
 * [📊 代币分布](dkey-token/token-usage.md)
 * [💰 代币效用](dkey-token/page-2.md)
 * [💲 代币经济模型](dkey-token/page-1.md)
-* [🛒 如何购买 $DKEY](how-to-buy.md)
 
 ## 联盟 <a href="#alliance" id="alliance"></a>
 
 * [🤝 战略伙伴关系](alliance/zhan-lve-huo-ban-guan-xi.md)
+
+## Group 1
+
+* [🛒 如何购买 $DKEY](group-1/how-to-buy-dkey.md)
+* [📋 如何领取预售质押奖励](group-1/ru-he-ling-qu-yu-shou-zhi-ya-jiang-li.md)
 
 ## 政策和协议 <a href="#policies-n-agreements" id="policies-n-agreements"></a>
 
@@ -35,5 +39,5 @@
 
 ## 其他 <a href="#others" id="others"></a>
 
-* [📱 关注我们](others/social-media.md)
+* [💬 关注我们](others/social-media.md)
 * [❓ 常见问题](others/faqs.md)
