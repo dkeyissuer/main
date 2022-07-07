@@ -1,4 +1,4 @@
-# 📱 How to Claim Presales Staking Rewards
+# 📄 How to Claim Presales Staking Rewards
 
 
 
