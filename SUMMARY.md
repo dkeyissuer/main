@@ -32,6 +32,7 @@
 
 * [🛒 如何购买 $DKEY](tutorials/how-to-buy-dkey.md)
 * [📄 如何领取预售质押奖励](tutorials/ru-he-ling-qu-yu-shou-zhi-ya-jiang-li.md)
+* [👛 如何连接钱包至 DKEY 银行应用](tutorials/ru-he-lian-jie-qian-bao-zhi-dkey-yin-hang-ying-yong.md)
 
 ## 政策和协议 <a href="#policies-n-agreements" id="policies-n-agreements"></a>
 
