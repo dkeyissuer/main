@@ -1,4 +1,4 @@
-# How to Connect Wallet to DKEY Bank App
+# 👛 How to Connect Wallet to DKEY Bank App
 
 
 
