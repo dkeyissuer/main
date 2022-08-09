@@ -34,10 +34,6 @@
 * [📄 如何领取预售质押奖励](tutorials/how-to-claim-presales-staking-rewards.md)
 * [👛 如何连接钱包至 DKEY 银行应用](tutorials/how-to-connect-wallet-to-dkey-bank-app.md)
 
-## 政策和协议 <a href="#policies-n-agreements" id="policies-n-agreements"></a>
-
-* [📜 DKEY 银行用户协议](policies-n-agreements/user-agreement.md)
-
 ## 其他 <a href="#others" id="others"></a>
 
 * [💬 关注我们](others/social-media.md)
