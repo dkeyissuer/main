@@ -36,7 +36,7 @@
 
 ## 政策与协议 <a href="#policies-and-agreements" id="policies-and-agreements"></a>
 
-* [Page 1](policies-and-agreements/page-1.md)
+* [📜 DKEY银行用户协议](policies-and-agreements/dkey-yin-hang-yong-hu-xie-yi.md)
 
 ## 其他 <a href="#others" id="others"></a>
 
