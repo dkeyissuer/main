@@ -34,6 +34,10 @@
 * [📄 How to Claim Presales Staking Rewards](tutorials/how-to-claim-presales-staking-rewards.md)
 * [👛 How to Connect Wallet to DKEY Bank App](tutorials/how-to-connect-wallet-to-dkey-bank-app.md)
 
+## Policies & Agreements
+
+* [DKEY Bank User Agreement](policies-and-agreements/dkey-bank-user-agreement.md)
+
 ## OTHERS
 
 * [💬 Follow Us](others/follow-us.md)
