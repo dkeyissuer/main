@@ -5,7 +5,6 @@
 * [🔑 DKEY 项目](README.md)
 * [🏆 成就](overview/page-3.md)
 * [🗺 发展蓝图](milestones/roadmap.md)
-* [👨💻 创始团队](overview/chuang-shi-tuan-dui.md)
 
 ## 解决方案 <a href="#solutions" id="solutions"></a>
 
