@@ -5,7 +5,6 @@
 * [🔑 DKEY Project](README.md)
 * [🏆 Achievements](overview/master.md)
 * [🗺 Roadmap](overview/master-1.md)
-* [👨💻 Founding Team](overview/founding-team.md)
 
 ## Solutions
 
