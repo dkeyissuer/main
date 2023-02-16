@@ -49,7 +49,7 @@
 | Smart Contract Audit  | <ul class="contains-task-list"><li><input type="checkbox" checked>Passed smart contract security audit</li></ul>                                      |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Airdrop Campaign      | <ul class="contains-task-list"><li><input type="checkbox" checked>Distributed free $DKEY to the community to promote DKEY project awareness</li></ul> |
-| Strategic Partnership | <ul class="contains-task-list"><li><input type="checkbox" checked>Partnered with FormosArt and Spark</li></ul>                                        |
+| Strategic Partnership | <ul class="contains-task-list"><li><input type="checkbox" checked>Partnered with FormosArt and Spark Meta</li></ul>                                   |
 
 
 

@@ -61,7 +61,7 @@ We collaborate with these partners:
 
 
 
-![](../.gitbook/assets/Strategy-Partners\_latest.png)
+![](../.gitbook/assets/strategy-partner.png)
 
 
 
