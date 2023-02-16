@@ -6,7 +6,7 @@ DKEY continues to progress towards its challenging goals with the support of num
 
 #### Payment Platforms&#x20;
 
-We accepts payments via these platforms:&#x20;
+We accept payments via these platforms:&#x20;
 
 * [Binance](https://www.binance.com/) - The world’s biggest crypto exchange platform by trading volume&#x20;
 * [Huobi](https://www.huobi.com/en-us/) - The world-leading cryptocurrency trading platform&#x20;
@@ -36,7 +36,7 @@ $DKEY is listed on these exchanges:&#x20;
 
 $DKEY is built on these blockchain infrastructures:&#x20;
 
-* [BNB Smart Chain (BSC)](https://www.bnbchain.world/en/smartChain) (formerly known as Binance Smart Chain) - A dual-chain architecture that empower its users to build their decentralised apps and digital assets on one blockchain&#x20;
+* [BNB Smart Chain (BSC)](https://www.bnbchain.world/en/smartChain) (formerly known as Binance Smart Chain) - A dual-chain architecture that empowers its users to build their decentralised apps and digital assets on one blockchain&#x20;
 * [BscScan](https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1) - The leading blockchain explorer for the BNB Smart Chain&#x20;
 
 
@@ -52,15 +52,16 @@ Users can track the $DKEY live price and market data on these websites:&#x20;
 
 
 
-#### NFT Marketplace&#x20;
+#### Strategic Partners
 
-Users can mint NFTs from these marketplaces:&#x20;
+We collaborate with these partners:
 
-* [FormosArt](https://www.formosart.io/store/dkey) - A digital art marketplace powered by Ethereum blockchain&#x20;
+* [FormosArt](https://www.formosart.io/store/dkey) - A digital art marketplace powered by the Ethereum blockchain&#x20;
+* [Spark Meta](https://www.sparkmeta.info/) - A leading venture firm focused on the blockchain industry&#x20;
 
 
 
-![](../.gitbook/assets/strategy-partner.png)
+![](../.gitbook/assets/Strategy-Partners\_latest.png)
 
 
 
