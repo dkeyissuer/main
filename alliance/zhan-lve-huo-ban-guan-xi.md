@@ -45,22 +45,22 @@ $DKEY 建立在这些区块链基础设施之上：&#x20;
 
 用户可以在这些网站上追踪 $DKEY 的实时价格和市场数据：
 
-* &#x20;[CoinMarketCap](https://coinmarketcap.com/currencies/dkey-bank/) - 在快速发展的加密货币领域中，世界上最具参考价值的加密资产价格跟踪网站&#x20;
+* [CoinMarketCap](https://coinmarketcap.com/currencies/dkey-bank/) - 在快速发展的加密货币领域中，世界上最具参考价值的加密资产价格跟踪网站&#x20;
 * [CoinGecko](https://www.coingecko.com/en/coins/dkey-bank) - 世界上最大的独立加密货币数据聚合器&#x20;
 * [Coinranking](https://coinranking.com/coin/E8rWjAxcb+dkeybank-dkey) - 查看加密货币价格的数字货币行情平台&#x20;
 * [CoinBase](https://www.coinbase.com/price/dkey-bank) - 用于购买、出售、转移和存储加密货币的安全在线平台&#x20;
 
 
 
-#### NFT 市场&#x20;
+#### 合作伙伴&#x20;
 
-用户可以从这些市场铸造 NFT：&#x20;
+我们与&#x20;
 
 * [FormosArt](https://www.formosart.io/store/dkey) - 由以太坊区块链驱动的数字艺术市场&#x20;
 
 
 
-![](../.gitbook/assets/strategy-partner\_cn.png)
+![](../.gitbook/assets/Strategy-Partners\_latest\_cn.png)
 
 
 
