@@ -49,7 +49,7 @@
 | 智能合约审计 | <ul class="contains-task-list"><li><input type="checkbox" checked>通过了智能合约安全审计 </li></ul>                  |
 | ------ | --------------------------------------------------------------------------------------------------------- |
 | 空投活动   | <ul class="contains-task-list"><li><input type="checkbox" checked>向社区免费发放 $DKEY 以提升 DKEY 项目知名度 </li></ul> |
-| 战略伙伴关系 | <ul class="contains-task-list"><li><input type="checkbox" checked>与 FormosArt、Spark Meta 进行合作</li></ul>   |
+| 战略伙伴关系 | <ul class="contains-task-list"><li><input type="checkbox" checked>与 FormosArt 进行合作</li></ul>              |
 
 
 
