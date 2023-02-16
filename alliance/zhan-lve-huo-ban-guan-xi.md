@@ -54,9 +54,10 @@ $DKEY 建立在这些区块链基础设施之上：&#x20;
 
 #### 合作伙伴&#x20;
 
-我们与&#x20;
+我们与这些伙伴进行合作：
 
 * [FormosArt](https://www.formosart.io/store/dkey) - 由以太坊区块链驱动的数字艺术市场&#x20;
+* [Spark Meta](https://www.sparkmeta.info/) - 一家专注于区块链行业的领先风险投资公司
 
 
 
