@@ -35,7 +35,7 @@
 
 ## Policies & Agreements
 
-* [📜 DKEY Bank User Agreement](policies-and-agreements/dkey-bank-user-agreement.md)
+* [📜 DKEY World User Agreement](policies-and-agreements/dkey-world-user-agreement.md)
 
 ## OTHERS
 

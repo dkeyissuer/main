@@ -27,8 +27,7 @@
 
 ### Q1 2024
 
-| Exchange Launchpad | <ul class="contains-task-list"><li><input type="checkbox">Launch IEO on first-tier exchange launchpad</li></ul> |
-| ------------------ | --------------------------------------------------------------------------------------------------------------- |
+<table data-header-hidden><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td>Exchange Launchpad</td><td><ul class="contains-task-list"><li><input type="checkbox">Launch IEO on first-tier exchange launchpad</li></ul></td></tr></tbody></table>
 
 
 

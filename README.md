@@ -16,13 +16,13 @@ These are the major obstacles driving towards cryptoverse:
 
     Unintuitive navigation design results in poor user experience. If users find the navigation too complicated, they will hit the ‘back’ button to look for something better.
 * **Security**\
-  ****Crypto scams, theft and fraud reduce user confidence. Such threats are making people think twice before entering into the entire blockchain system.
+  Crypto scams, theft and fraud reduce user confidence. Such threats are making people think twice before entering into the entire blockchain system.
 * **Value Proposition**\
-  ****Most people see crypto as a speculative, long term investment. Its weak value proposition prevents people from making crypto a part of their daily life.
+  Most people see crypto as a speculative, long term investment. Its weak value proposition prevents people from making crypto a part of their daily life.
 * **On & Off-Ramps**\
-  ****Crypto is barely accepted in everyday life due to the lack of fiat-to-crypto exchange services. Moreover, the fees incurred for fiat on and off-ramps can be high.
+  Crypto is barely accepted in everyday life due to the lack of fiat-to-crypto exchange services. Moreover, the fees incurred for fiat on and off-ramps can be high.
 * **Complexity**\
-  ****It is difficult for newbies to understand and invest in crypto. The theories behind wallets, exchanges, and tokens make their heads spin!
+  It is difficult for newbies to understand and invest in crypto. The theories behind wallets, exchanges, and tokens make their heads spin!
 
 
 

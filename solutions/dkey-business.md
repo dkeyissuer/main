@@ -14,11 +14,7 @@ DKEY Business remains at the forefront of blockchain to lead traditional busines
 
 
 
-| **Security**                   | Ensure enterprise-grade secure storage of digital assets         |
-| ------------------------------ | ---------------------------------------------------------------- |
-| **Multisig Wallet**            | Requires two or more private keys to sign and send a transaction |
-| **Transparency, Auditability** | Enable transparency and auditability of investments              |
-| **Segregation, Independence**  | Guaranteed independence and neutrality for investors             |
+<table data-header-hidden><thead><tr><th width="150"></th><th></th></tr></thead><tbody><tr><td><strong>Security</strong></td><td>Ensure enterprise-grade secure storage of digital assets</td></tr><tr><td><strong>Multisig Wallet</strong></td><td>Requires two or more private keys to sign and send a transaction</td></tr><tr><td><strong>Transparency, Auditability</strong></td><td>Enable transparency and auditability of investments</td></tr><tr><td><strong>Segregation, Independence</strong></td><td>Guaranteed independence and neutrality for investors</td></tr></tbody></table>
 
 
 
